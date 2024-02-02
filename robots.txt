@@ -1,1 +1,1 @@
-Sitemap: /mizumoto_termite_lab/sitemap.xml
+Sitemap: /mizumoto-termite-lab.github.io/sitemap.xml
