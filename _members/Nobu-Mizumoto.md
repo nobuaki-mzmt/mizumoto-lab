@@ -9,8 +9,9 @@ aliases:
 links:
   email: nzm0095@auburn.edu
   twitter: nobuakiMZMT
+  google-scholar: 8P4Ch5EAAAAJ
   orcid: 0000-0002-6731-8684
-  cv: https://www.dropbox.com/scl/fi/c1gb6oag2hgcp7i7iw0rt/CV_NobuakiMizumoto.pdf?rlkey=uzaqfj67r6wp97la27e1coq5g&dl=0
+  link: https://www.dropbox.com/scl/fi/c1gb6oag2hgcp7i7iw0rt/CV_NobuakiMizumoto.pdf?rlkey=uzaqfj67r6wp97la27e1coq5g&dl=0
 ---
 
 Nobu Mizumoto is an Assistant Professor in Insect Ecology at the Department of Entomology and Plant Pathology at Auburn University. He studies nest construction and movement coordination in termites to ask how collective-level phenomena are regulated by individual-level behaviors and how behavioral coordination has evolved in the history of life. His research is based on detailed behavioral observations and the life history of each termite species but extends the analysis to multiple species in a phylogenetic context to understand their environmental adaptation and evolutionary process.
