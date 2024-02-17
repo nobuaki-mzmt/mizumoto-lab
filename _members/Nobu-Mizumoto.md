@@ -1,12 +1,14 @@
 ---
 name: Nobuaki Mizumoto
-image: images/Nobu_Mizumoto.jpg
+image: images/members/Nobu_Mizumoto.jpg
 role: pi
 aliases:
   - N. Mizumoto
   - N Mizumoto
+  - Nobuaki Mizumoto
 links:
-  home-page: https://janesmith.com
+  email: nzm0095@auburn.edu
+  twitter: nobuakiMZMT
   orcid: 0000-0002-6731-8684
 ---
 
