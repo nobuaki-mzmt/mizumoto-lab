@@ -14,9 +14,9 @@ links:
   link: https://www.dropbox.com/scl/fi/c1gb6oag2hgcp7i7iw0rt/CV_NobuakiMizumoto.pdf?rlkey=uzaqfj67r6wp97la27e1coq5g&dl=0
 ---
 
-Nobu Mizumoto is an Assistant Professor in Insect Ecology at the Department of Entomology and Plant Pathology at Auburn University. He studies nest construction and movement coordination in termites to ask how collective-level phenomena are regulated by individual-level behaviors and how behavioral coordination has evolved in the history of life. His research is based on detailed behavioral observations and the life history of each termite species but extends the analysis to multiple species in a phylogenetic context to understand their environmental adaptation and evolutionary process.
+Nobu Mizumoto is an Assistant Professor in Insect Ecology at the Department of Entomology & Plant Pathology at Auburn University. He is interested in the evolution of collective behavior in termites and tandem running behavior.
 
-## Career
+### Career
 - 2024-Present	Assistant Professor, Department of Entomology and Plant Pathology, Auburn University
 - 2023	OIST Interdisciplinary Postdoctoral Scholar Fellowship, Okinawa Institute of Science and Technology, Evolutionary Genomics Unit / Computational Neuroethology Unit
 - 2020-2023	JSPS Research Fellow (CPD, cross-border postdoctoral),  Okinawa Institute of Science and Technology, Evolutionary Genomics Unit
@@ -24,13 +24,13 @@ Nobu Mizumoto is an Assistant Professor in Insect Ecology at the Department of E
 - 2018-2020	JSPS Overseas Research Fellow, School of Life Sciences, Arizona State University
 - 2015-2018	JSPS Research Fellow (DC1), Graduate School of Agriculture, Kyoto University
 
-## Education:
+### Education:
 - 2018 Ph.D. Graduate School of Agriculture, Kyoto University
 - 2015 MS Graduate School of Agriculture, Kyoto University
 - 2013 BS Department of Agriculture, Kyoto University
 
-## Awards & Fellowships
-### Awards
+### Awards & Fellowships
+#### Awards
 - 2024	Christopher Barnard Award for 2024, The Association for the Study of Animal Behaviour (ASAB)
 - 2021	37th Inoue Research Award for Young Scientists
 - 2021	Young Scholar Award of the Ecological Society of Japan (ESJ Suzuki Award)
@@ -48,7 +48,7 @@ Nobu Mizumoto is an Assistant Professor in Insect Ecology at the Department of E
 - 2014	English Presentation Award Best Award The 61th Annual Meeting of ESJ in Hiroshima Japan
 - 2013	Poster award, The 32th Annual Meeting of the Japan Ethological Society
 
-### Grant
+#### Grant
 - 2024	Christopher Barnard Award for 2024, The Association for the Study of Animal Behaviour (ASAB), 1,000 EUR (≈ 1,000 USD)
 - 2024-2027	Discovery Early Career Researcher Award (DECRA), Australian Research Council, 388,487.00 AUD, “Reconstructing evolutionary history of termite collective nest construction”, PI: Mizumoto N. (secured but will be declined due to another appointment)
 - 2023-2024	The Motoo Kimura Trust Foundation for the Promotion of Evolutionary Biology, 1,000,000 JPY (≈ 7,200 USD), for Japan Eco-Evo English Seminar 2023. PI: Kass J. M., Co-PIs: Fujioka H., Mizumoto N.
