@@ -215,5 +215,6 @@
   date: '2023-12-01'
   link: https://doi.org/gthtqb
   type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2666166723007360-fx1.jpg
   plugin: sources.py
   file: sources.yaml
