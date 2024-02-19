@@ -12,9 +12,9 @@ nav:
 
 <h3>2024</h3>
 
-<li><b><u>Mizumoto N.</u></b>*, Nagaya N. & Fujisawa R. (2024) Wasted efforts impair random search efficiency and reduce choosiness in mate-pairing termites. <b><i>bioRxiv</i></b>, DOI: <a href="https://doi.org/10.1101/2024.02.01.578198">10.1101/2024.02.01.578198</a>
+<li><b><u>Mizumoto N.</u></b>*, Nagaya N. & Fujisawa R. (2024) Wasted efforts impair random search efficiency and reduce choosiness in mate-pairing termites. <b><i>bioRxiv</i></b>, DOI: <a href="https://doi.org/10.1101/2024.02.01.578198">10.1101/2024.02.01.578198</a></li>
 
-<li><b><u>Mizumoto N.</u></b>* & Nozaki T. (2023) The significance of social interactions in synchronized swarming flight in a termite. <b><i>bioRxiv</i></b>, DOI: <a href="https://doi.org/10.1101/2023.12.25.573318">10.1101/2023.12.25.573318</a>
+<li><b><u>Mizumoto N.</u></b>* & Nozaki T. (2023) The significance of social interactions in synchronized swarming flight in a termite. <b><i>bioRxiv</i></b>, DOI: <a href="https://doi.org/10.1101/2023.12.25.573318">10.1101/2023.12.25.573318</a></li>
 
 <li><b><u>Mizumoto N.</u></b>*, Hellemans S., Engel M. S., Bourguignon T. & Buček A.* (2024) Extinct and extant termites reveal the fidelity of behavior fossilization in amber. <b><i>Proceedings of the National Academy of Science</i></b> (in press)</li>
 
