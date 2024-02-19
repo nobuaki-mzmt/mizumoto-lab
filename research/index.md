@@ -34,7 +34,7 @@ by animals. <i><b>Ecology and Evolution</B></i>, 13(8):e10394, DOI:<a href="http
 
 <li> <b><u>Mizumoto N.</u></b>*, Bourguignon T., & Bailey W. N. (2022) Ancestral sex-role plasticity facilitates theevolution of same-sex sexual behavior. <i><b>Proceedings of the NationalAcademy of Science</B></i>, 119(46):e2212401119, DOI:<a href="https://doi.org/10.1073/pnas.2212401119">10.1073/pnas.2212401119)</a></li>
 
-<li> Lee S.B.*, Chouvenc T., <span class="underline">MizumotoN.</span>, Mullins A. & Su N.Y. (2022) Age-based spatial distributionof workers is resilient to worker loss in a subterranean termite. <i><b>Scientific Reports</B></i>, 12:7837, DOI:<a href="https://doi.org/10.1038/s41598-022-11512-1">10.1038/s41598-022-11512-1)</a></li>
+<li> Lee S.B.*, Chouvenc T., <b><u>Mizumoto N.</u></b>, Mullins A. & Su N.Y. (2022) Age-based spatial distributionof workers is resilient to worker loss in a subterranean termite. <i><b>Scientific Reports</B></i>, 12:7837, DOI:<a href="https://doi.org/10.1038/s41598-022-11512-1">10.1038/s41598-022-11512-1)</a></li>
 
 <li> Buček A., Wang M., Šobotník J., Sillam-Dussès D., <b><u>Mizumoto N.</u></b>, Stiblík P., ClitheroeC., Lu T., González Plaza J. J., Mohagan A., Rafanomezantsoa J. J.,Fisher B., Engel M., Roisin Y., Evans T., Scheffrahn R. & BourguignonT.* (2022) Molecular phylogeny reveals the past transoceanic voyages ofdrywood termites (Isoptera, Kalotermitidae). <i><b>Molecular Biology andEvolution</B></i>, 39(5):msa093, DOI:<a href="https://doi.org/10.1093/molbev/msac093">10.1093/molbev/msac093)</a></li>
 
@@ -62,7 +62,7 @@ by animals. <i><b>Ecology and Evolution</B></i>, 13(8):e10394, DOI:<a href="http
 
 <li> <b><u>Mizumoto N.</u></b> & Bourguignon T. (2020) Modern termites inherited the potential of collectiveconstruction from their common ancestor. <i><b>Ecology and Evolution</B></i>,10: 6775-6784DOI:<a href="https://doi.org/10.1002/ece3.6381">10.1002/ece3.6381</a></li>
 
-<li> Mitaka Y.*, Matsuyama S., <span class="underline">MizumotoN.</span>, Matsuura K. & Akino T. (2020) Chemical identification of anaggregation pheromone in the termite <i>Reticulitermes speratus</i>. <i><b>Scientific Reports</i></b> 10: 7424, DOI:<a href="https://doi.org/10.1038/s41598-020-64388-4">10.1038/s41598-020-64388-4</a></li>
+<li> Mitaka Y.*, Matsuyama S., <b><u>Mizumoto N.</u></b>, Matsuura K. & Akino T. (2020) Chemical identification of anaggregation pheromone in the termite <i>Reticulitermes speratus</i>. <i><b>Scientific Reports</b></i> 10: 7424, DOI:<a href="https://doi.org/10.1038/s41598-020-64388-4">10.1038/s41598-020-64388-4</a></li>
 
 <h3>2019</h3> 
 
@@ -80,27 +80,27 @@ by animals. <i><b>Ecology and Evolution</B></i>, 13(8):e10394, DOI:<a href="http
 
 <li> Yashiro T.*, Lo N., Kobayashi K., Nozaki T., Fuchikawa T., <b><u>Mizumoto N.</u></b>, Namba Y. & Matsuura K. (2018) Loss of males from mixed-sex societies in termites <i><b>BMCBiology</i></b> 16: 96DOI:<a href="https://doi.org/10.1186/s12915-018-0563-y">10.1186/s12915-018-0563-y</a></li>
 
-<li> 9. <b><u>Mizumoto N.</u></b>* & Dobata S. (2018)The optimal movement patterns for mating encounters with sexuallyasymmetric detection ranges. <i><b>Scientific Reports</i></b> 8: 3356DOI:<a href="https://doi.org/10.1038/s41598-018-21437-3"></a>10.1038/s41598-018-21437-3</li>
+<li> <b><u>Mizumoto N.</u></b>* & Dobata S. (2018)The optimal movement patterns for mating encounters with sexuallyasymmetric detection ranges. <i><b>Scientific Reports</i></b> 8: 3356DOI:<a href="https://doi.org/10.1038/s41598-018-21437-3"></a>10.1038/s41598-018-21437-3</li>
 
-<li> 8. Matsuura K.*<sup> #</sup>, <span class="underline">MizumotoN.</span><sup> #</sup>, Kobayashi K., Nozaki T., Fujita T., YashiroT., Fuchikawa T., Mitaka Y. & Vargo E. L. (2018) A genomic imprintingmodel of termite caste determination: Not genetic but epigeneticinheritance influences offspring caste fate. </i></b>The AmericanNaturalists <i><b> 191(6): 677-690DOI:<a href="https://doi.org/10.1086/697238">10.1086/697238</a></li>
+<li> Matsuura K.*<sup> #</sup>, <b><u>Mizumoto N.</u></b><sup> #</sup>, Kobayashi K., Nozaki T., Fujita T., YashiroT., Fuchikawa T., Mitaka Y. & Vargo E. L. (2018) A genomic imprintingmodel of termite caste determination: Not genetic but epigeneticinheritance influences offspring caste fate. </i></b>The AmericanNaturalists <i><b> 191(6): 677-690DOI:<a href="https://doi.org/10.1086/697238">10.1086/697238</a></li>
 
 <h3>2017</h3> 
 
-<li> 7. Hasegawa E.*<sup> #</sup>, <span class="underline">MizumotoN.</span><sup> #</sup>, Kobayashi K., Dobata S., Yoshimura J. WatanabeS., Murakami Y. & Matsuura K. (2017) Nature of collectivedecision-making by simple yes/no decision units. <i><b>ScientificReports</i></b> 7:14436 DOI:<a href="https://doi.org/10.1038/s41598-017-14626-z">10.1038/s41598-017-14626-z</a></li>
+<li> Hasegawa E.*<sup> #</sup>, <b><u>Mizumoto N.</u></b><sup> #</sup>, Kobayashi K., Dobata S., Yoshimura J. WatanabeS., Murakami Y. & Matsuura K. (2017) Nature of collectivedecision-making by simple yes/no decision units. <i><b>ScientificReports</i></b> 7:14436 DOI:<a href="https://doi.org/10.1038/s41598-017-14626-z">10.1038/s41598-017-14626-z</a></li>
 
-<li> 6. <b><u>Mizumoto N.</u></b>*, Fuchikawa T. & Matsuura K. (2017) Pairing strategy after today's failure: unpairedtermites synchronize mate search using photic cycles. <i><b>PopulationEcology</i></b> 59(3): 205-211.DOI:<a href="https://doi.org/10.1007/s10144-017-0584-3">10.1007/s10144-017-0584-3</a></li>
+<li> <b><u>Mizumoto N.</u></b>*, Fuchikawa T. & Matsuura K. (2017) Pairing strategy after today's failure: unpairedtermites synchronize mate search using photic cycles. <i><b>PopulationEcology</i></b> 59(3): 205-211.DOI:<a href="https://doi.org/10.1007/s10144-017-0584-3">10.1007/s10144-017-0584-3</a></li>
 
-<li> 5. Nagaya N.*<sup> #</sup>, <span class="underline">MizumotoN.</span><sup> #</sup>, Abe M. S., Dobata S., Sato R. & Fujisawa R.*(2017) Anomalous diffusion on the servosphere: a potential tool fordetecting inherent organismal movement patterns. <i><b>PLOS ONE</i></b> 12(6):e0177480.DOI:<a href="https://doi.org/10.1371/journal.pone.0177480">10.1371/journal.pone.0177480</a></li>
+<li> Nagaya N.*<sup> #</sup>, <b><u>MizumotoN.</b></u><sup> #</sup>, Abe M. S., Dobata S., Sato R. & Fujisawa R.*(2017) Anomalous diffusion on the servosphere: a potential tool fordetecting inherent organismal movement patterns. <i><b>PLOS ONE</i></b> 12(6):e0177480.DOI:<a href="https://doi.org/10.1371/journal.pone.0177480">10.1371/journal.pone.0177480</a></li>
 
-<li> 4. <b><u>Mizumoto N.</u></b>*, Abe M. S.* & Dobata S.* (2017) Optimizing mating encounters by sexually dimorphicmovements. <i><b>Journal of the Royal Society Interface</i></b> 14: 20170086.DOI:<a href="https://doi.org/10.1098/rsif.2017.0086">10.1098/rsif.2017.0086</a></li>
+<li> <b><u>Mizumoto N.</u></b>*, Abe M. S.* & Dobata S.* (2017) Optimizing mating encounters by sexually dimorphicmovements. <i><b>Journal of the Royal Society Interface</i></b> 14: 20170086.DOI:<a href="https://doi.org/10.1098/rsif.2017.0086">10.1098/rsif.2017.0086</a></li>
 
 <h3>~2016</h3> 
 
-<li> 3. <b><u>Mizumoto N.</u></b>*, Yashiro T. & Matsuura K. (2016) Male same-sex pairing as an adaptive strategy forfuture reproduction in termites. <i><b>Animal Behaviour</i></b> 119: 179-187.DOI:<a href="https://doi.org/10.1016/j.anbehav.2016.07.007">10.1016/j.anbehav.2016.07.007</a></li>
+<li> <b><u>Mizumoto N.</u></b>*, Yashiro T. & Matsuura K. (2016) Male same-sex pairing as an adaptive strategy forfuture reproduction in termites. <i><b>Animal Behaviour</i></b> 119: 179-187.DOI:<a href="https://doi.org/10.1016/j.anbehav.2016.07.007">10.1016/j.anbehav.2016.07.007</a></li>
 
-<li> 2. <b><u>Mizumoto N.</u></b>*, Kobayashi K. & Matsuura K. (2015) Emergence of intercolonial variation in termiteshelter tube patterns and prediction of its underlying mechanism. <i><b>Royal Society Open Science</i></b> 2: 150360 DOI:<a href="https://doi.org/10.1098/rsos.150360">10.1098/rsos.150360</a></li>
+<li> <b><u>Mizumoto N.</u></b>*, Kobayashi K. & Matsuura K. (2015) Emergence of intercolonial variation in termiteshelter tube patterns and prediction of its underlying mechanism. <i><b>Royal Society Open Science</i></b> 2: 150360 DOI:<a href="https://doi.org/10.1098/rsos.150360">10.1098/rsos.150360</a></li>
 
-<li> 1. <b><u>Mizumoto N.</u></b> & Matsuura K.* (2013)Colony-specific architecture of shelter tubes by termites. <i><b>InsectesSociaux</i></b> 60: 525-530. DOI:<a href="https://doi.org/10.1007/s00040-013-0319-1">10.1007/s00040-013-0319-1</a></li>
+<li> <b><u>Mizumoto N.</u></b> & Matsuura K.* (2013) Colony-specific architecture of shelter tubes by termites. <i><b>InsectesSociaux</i></b> 60: 525-530. DOI:<a href="https://doi.org/10.1007/s00040-013-0319-1">10.1007/s00040-013-0319-1</a></li>
 
 </ol>
 
