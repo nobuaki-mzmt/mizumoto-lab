@@ -82,7 +82,7 @@ by animals. <i><b>Ecology and Evolution</B></i>, 13(8):e10394, DOI:<a href="http
 
 <li> <b><u>Mizumoto N.</u></b>* & Dobata S. (2018)The optimal movement patterns for mating encounters with sexuallyasymmetric detection ranges. <i><b>Scientific Reports</i></b> 8: 3356DOI:<a href="https://doi.org/10.1038/s41598-018-21437-3"></a>10.1038/s41598-018-21437-3</li>
 
-<li> Matsuura K.*<sup> #</sup>, <b><u>Mizumoto N.</u></b><sup> #</sup>, Kobayashi K., Nozaki T., Fujita T., YashiroT., Fuchikawa T., Mitaka Y. & Vargo E. L. (2018) A genomic imprintingmodel of termite caste determination: Not genetic but epigeneticinheritance influences offspring caste fate. </i></b>The AmericanNaturalists <i><b> 191(6): 677-690DOI:<a href="https://doi.org/10.1086/697238">10.1086/697238</a></li>
+<li> Matsuura K.*<sup> #</sup>, <b><u>Mizumoto N.</u></b><sup> #</sup>, Kobayashi K., Nozaki T., Fujita T., YashiroT., Fuchikawa T., Mitaka Y. & Vargo E. L. (2018) A genomic imprintingmodel of termite caste determination: Not genetic but epigeneticinheritance influences offspring caste fate. <i><b>The AmericanNaturalists </b></i> 191(6): 677-690DOI:<a href="https://doi.org/10.1086/697238">10.1086/697238</a></li>
 
 <h3>2017</h3> 
 
