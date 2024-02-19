@@ -5,3 +5,9 @@
 - id: doi:10.1002/ece3.10394
   type: paper
   image: https://github.com/nobuaki-mzmt/tmanual/raw/main/images/output.gif
+
+- id: 10.1016/j.isci.2023.106418
+  type: paper
+  image: https://www.cell.com/cms/attachment/7c371333-2e51-4206-99f7-cf419502554c/fx1.jpg
+  
+
