@@ -9,12 +9,15 @@ nav:
 
 ### 2024
 
-{% include list.html data="citations" component="citation" style="rich" %}
+<!-- {% include list.html data="citations" component="citation" style="rich" %} -->
 
 ## Before Auburn
 <ol reversed>
 
-### 2023
+<h3>2023</h3> 
+<h2>2023</h2> 
+<h1>2023</h1> 
+<h4>2023</h4> 
 
 <li> Tanaka Y., Valentini G., Pratt. C. S., Shimoji H., & <b><h>Mizumoto N.</h></b>* (2023) Obtaining long movement trajectories of leaders and followers in ant tandem runs. <i><b>STAR Protocols</b></i>, 4(4):102769, DOI:<a href="https://doi.org/10.1016/j.xpro.2023.102769">10.1016/j.xpro.2023.102769</a></li>
 
