@@ -6,7 +6,9 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publication
-<!-- {% include list.html data="citations" component="citation" style="rich" %} -->
+{% include list.html data="citations" component="citation" style="rich" %}
+
+<!--
 
 <ol reversed>
 
@@ -107,3 +109,4 @@ by animals. <b><i>Ecology and Evolution</i></b>, 13(8):e10394, DOI: <a href="htt
 
 </ol>
 
+-->
