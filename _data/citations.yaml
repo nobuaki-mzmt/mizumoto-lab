@@ -558,3 +558,20 @@
   orcid: 0000-0002-6731-8684
   plugin: orcid.py
   file: orcid.yaml
+- id: 10.1016/j.isci.2023.106418
+  title: Functional and mechanistic diversity in ant tandem communication
+  authors:
+  - Nobuaki Mizumoto
+  - Yasunari Tanaka
+  - Gabriele Valentini
+  - Thomas O. Richardson
+  - Sumana Annagiri
+  - Stephen C. Pratt
+  - Hiroyuki Shimoji
+  publisher: iScience
+  date: '2023-04-01'
+  link: https://doi.org/gthxkw
+  type: paper
+  image: https://www.cell.com/cms/attachment/7c371333-2e51-4206-99f7-cf419502554c/fx1.jpg
+  plugin: sources.py
+  file: sources.yaml
