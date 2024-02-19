@@ -11,11 +11,11 @@ nav:
 <ol reversed>
 
 <h3>2024</h3>
-<li><b><u>Mizumoto N.</u></b>*, Hellemans S., Engel M. S., Bourguignon T. & Buček A.* (2024) Extinct and extant termites reveal the fidelity of behavior fossilization in amber. <b><i>Proceedings of the National Academy of Science</b></i> (in press)</li>
+<li><b><u>Mizumoto N.</u></b>*, Hellemans S., Engel M. S., Bourguignon T. & Buček A.* (2024) Extinct and extant termites reveal the fidelity of behavior fossilization in amber. <b><i>Proceedings of the National Academy of Science</i></b> (in press)</li>
 
 </ol>
 
-<h2>Before Auburn</h2> 
+Before Auburn
 
 <ol reversed>
 
