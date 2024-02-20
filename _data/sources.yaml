@@ -96,7 +96,7 @@
   type: paper
 
 # 13. Mizumoto N.*, Miyata S. & Pratt S. C. (2019) Inferring collective behavior from a fossilized fish shoal. Proceedings of the Royal Society B 286: 20190891 DOI: 10.1098/rspb.2019.0891
-- id: 10.1098/rspb.2019.0891
+- id: doi:10.1098/rspb.2019.0891
   type: paper
   image: https://static01.nyt.com/images/2019/06/04/science/29TB-FISHFOSSIL1/29TB-FISHFOSSIL1-superJumbo.jpg
 
