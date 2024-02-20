@@ -6,11 +6,19 @@ Mizumoto Lab is interested in the evolution of termite collective behavior. What
 
 
 <div class="clearfix">
-<img src="image/Shelter-tubes.jpg" style = "width: 40%" align = left>
+<img src="images/Shelter-tubes.jpg" style = "width: 40%" align = left>
 
 ### Termites
-We intentionally restricted our research (mainly) on termites for inspiration. Who wants to play soccer if you can use your hands? Do you have a research question? We can solve it with termites!  
+We have > 3,000 species of termites, and they show a gradation of diverse collective behavior. We never be bored with thier behavior. We intentionally restricted our research (mainly) on termites for inspiration. Who wants to play soccer if you can use your hands? Do you have a research question? We can solve it with termites!  
 </div>
+
+<div class="clearfix">
+<img src="images/Shelter-tubes.jpg" style = "width: 40%" align = left>
+### Termites
+We have > 3,000 species of termites, and they show a gradation of diverse collective behavior. We never be bored with thier behavior. We intentionally restricted our research (mainly) on termites for inspiration. Who wants to play soccer if you can use your hands? Do you have a research question? We can solve it with termites!  
+</div>
+
+
 <!--
 {% include section.html %}
 
