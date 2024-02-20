@@ -100,7 +100,7 @@ nav > a:hover {
   color: var(--primary);
 }
 
-@media (max-width: 700px) {
+@media (max-width: 500px) {
   header:not([data-big]) {
     justify-content: flex-end;
   }
