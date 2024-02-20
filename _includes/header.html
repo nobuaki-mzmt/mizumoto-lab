@@ -1,4 +1,4 @@
-{% assign image = page.header | default: site.header | relative_url %}
+{% assign background = page.header | default: site.header | relative_url %}
 {% assign dark = page.header-dark | is_nil: site.header-dark | is_nil: true %}
 
 {% comment %}
