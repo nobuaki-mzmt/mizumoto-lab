@@ -35,7 +35,7 @@
   type: paper
 
 # 26. Mizumoto N.*, Bourguignon T. & Kanao T. (2022) Termite nest evolution fostered social parasitism by termitophilous rove beetles. Evolution, 76(5):1064-1072, DOI:10.1111/evo.14457
-- id: doi:10.1093/molbev/msac093
+- id: doi:10.1111/evo.14457
   type: paper
   image: https://lh3.googleusercontent.com/mHKhp-uuZiAP6AgwdkKIKZkYkDsl-NSas04RtzbwykZXk53PJvOpfHXKEiNEA6NGikCAbdUQAVKsf9Bi1plQohpHGZ8I-9K426up9lAXgSbBBXfoNCZQxoVnf90918VZew=w1280
 
@@ -43,7 +43,6 @@
 # 25. Yashiro T.*, Tea Y-K., Wal C.V.D., Nozaki T., Mizumoto N., Hellemans S., Matsuura K. & Lo N. (2021) Enhanced heterozygosity from male meiotic chromosome chains is superseded by hybrid female asexuality in termites. Proceedings of the National Academy of Science, 118, e2009533118, DOI:10.1073/pnas.2009533118
 - id: doi:10.1073/pnas.2009533118
   type: paper
-
 
 # 24. Mizumoto N.* & Bourguignon T. The evolution of body size in termites. (2021) Proceedings of the Royal Society B, 288: 20211458, DOI: 10.1098/rspb.2021.1458
 - id: doi:10.1098/rspb.2021.1458
@@ -53,7 +52,7 @@
 # 23. Mizumoto N.*, Lee S.B., Valentini G., Chouvenc T. & Pratt S.C. (2021) Coordination of movement via complementary interactions of leaders and followers in termite mating pairs. Proceedings of the Royal Society B, 288:20210998, DOI:10.1098/rspb.2021.0998
 - id: doi:10.1098/rspb.2021.0998
   type: paper
-  image: https://lh4.googleusercontent.com/R0Mt3WJYCzr5OxSgGhl87NtYH4YcEorwA4G-hE51onN2pTf0goLYQ0LpfDNN_76Boy0m3d1L7lFoyew2u9lcQQ4o0HuVjCLU8b9or6xyZL5YzDpvdwGq274Rcvdm5UYC3g=w1280
+  image: images/pub/Mizumoto-etal-2021-PRSB.jpg
 
 # 2020
 # 22. Taerum S.J.*, Jasso-Selles D.E., Hileman J.T., De Marini F., Mizumoto N. & Gile G.H. (2020) Spirotrichonymphea symbionts of the termite Paraneotermes simplicicornis.  European Journal of Protistology, 76: 125742, DOI:10.1016/j.ejop.2020.125742
@@ -63,6 +62,7 @@
 # 21. Mizumoto N.*, Rizo A., Pratt S.C. & Chouvenc T. (2020) Termite males enhance mating encounters by changing speed according to density. Journal of Animal Ecology, 89: 2542-2552, DOI:10.1111/1365-2656.13320 
 - id: doi:10.1111/1365-2656.13320 
   type: paper
+  image: images/pub/Mizumoto-etal-2020-JAE.jpg
 
 # 20. Valentini G., Mizumoto N., Pratt S.C., Pavlic T.P.* & Walker S.I.* (2020) Revealing the structure of information flows discriminates similar animal social behaviors. eLife, 9:e55395, DOI:10.7554/eLife.55395
 - id: doi:10.7554/eLife.55395
@@ -76,7 +76,7 @@
 # 18. Mizumoto N.*, Bardunias P.M. & Pratt S.C. (2020) Complex relationship between tunneling patterns and individual behaviors in termites. American Naturalist, 196(5): 555-565, DOI:10.1086/711020
 - id: doi:10.1086/711020
   type: paper
-  image: https://pbs.twimg.com/media/EiGbzsEUYAEmxLx?format=jpg
+  image: image/pub/Mizumoto-etal-2020-AmNat.gif
 
 # 17. Mizumoto N.* & Bourguignon T. (2020) Modern termites inherited the potential of collective construction from their common ancestor. Ecology and Evolution, 10: 6775-6784 DOI:10.1002/ece3.6381
 - id: doi:10.1002/ece3.6381
@@ -137,7 +137,7 @@
 # 4.  Mizumoto N.*, Abe M. S.* & Dobata S.* (2017) Optimizing mating encounters by sexually dimorphic movements. Journal of the Royal Society Interface 14: 20170086. DOI:10.1098/rsif.2017.0086
 - id: doi:10.1098/rsif.2017.0086
   type: paper
-  #image: https://lh5.googleusercontent.com/8r-UZU2CGkc2MiWDvZeOVTiSBG7J3b2ggPg-cNib8uPCqQxsi0vzzqfta0XSUJF0eSUnmphXP8F74zWSKAh72sc=w1280
+  image: image/pub/Mizumoto-etal-2017_JRSI.gif
 
 # ~2016
 # 3.  Mizumoto N.*, Yashiro T. & Matsuura K. (2016) Male same-sex pairing as an adaptive strategy for future reproduction in termites. Animal Behaviour 119: 179-187. DOI: 10.1016/j.anbehav.2016.07.007 
