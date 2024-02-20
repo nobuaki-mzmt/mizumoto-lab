@@ -28,7 +28,7 @@
   image: https://github.com/nobuaki-mzmt/tmanual/raw/main/images/output.gif
   plugin: sources.py
   file: sources.yaml
-- id: 10.1016/j.isci.2023.106418
+- id: doi:10.1016/j.isci.2023.106418
   title: Functional and mechanistic diversity in ant tandem communication
   authors:
   - Nobuaki Mizumoto
@@ -45,7 +45,7 @@
   image: https://www.cell.com/cms/attachment/7c371333-2e51-4206-99f7-cf419502554c/fx1.jpg
   plugin: sources.py
   file: sources.yaml
-- id: 10.1111/een.13209
+- id: doi:10.1111/een.13209
   title: Light alters activity but does not disturb tandem coordination of termite
     mating pairs
   authors:
@@ -58,7 +58,7 @@
   image: https://resjournals.onlinelibrary.wiley.com/cms/asset/f68cdf04-0e37-4824-ba66-44d7dbc3248a/een13209-fig-0001-m.jpg
   plugin: sources.py
   file: sources.yaml
-- id: 10.1073/pnas.2212401119
+- id: doi:10.1073/pnas.2212401119
   title: Ancestral sex-role plasticity facilitates the evolution of same-sex sexual
     behavior
   authors:
@@ -72,7 +72,7 @@
   image: https://www.pnas.org/cms/10.1073/pnas.2212401119/asset/0802f2c7-810d-492b-984b-002c5211982c/assets/images/large/pnas.2212401119fig01.jpg
   plugin: sources.py
   file: sources.yaml
-- id: 10.1038/s41598-022-11512-1
+- id: doi:10.1038/s41598-022-11512-1
   title: Age-based spatial distribution of workers is resilient to worker loss in
     a subterranean termite
   authors:
@@ -87,7 +87,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: 10.1093/molbev/msac093
+- id: doi:10.1093/molbev/msac093
   title: Molecular Phylogeny Reveals the Past Transoceanic Voyages of Drywood Termites
     (Isoptera, Kalotermitidae)
   authors:
@@ -116,7 +116,7 @@
   plugin: sources.py
   file: sources.yaml
   image: https://lh3.googleusercontent.com/mHKhp-uuZiAP6AgwdkKIKZkYkDsl-NSas04RtzbwykZXk53PJvOpfHXKEiNEA6NGikCAbdUQAVKsf9Bi1plQohpHGZ8I-9K426up9lAXgSbBBXfoNCZQxoVnf90918VZew=w1280
-- id: 10.1073/pnas.2009533118
+- id: doi:10.1073/pnas.2009533118
   title: Enhanced heterozygosity from male meiotic chromosome chains is superseded
     by hybrid female asexuality in termites
   authors:
@@ -134,7 +134,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: 10.1098/rspb.2021.1458
+- id: doi:10.1098/rspb.2021.1458
   title: The evolution of body size in termites
   authors:
   - Nobuaki Mizumoto
@@ -146,7 +146,7 @@
   image: https://www.oist.jp/sites/default/files/styles/background_image_xl_low_1x/public/20220114-HeaderImage-AColonyOfTermites.jpg?h=56b840cf&itok=_CJhu3rn
   plugin: sources.py
   file: sources.yaml
-- id: 10.1098/rspb.2021.0998
+- id: doi:10.1098/rspb.2021.0998
   title: Coordination of movement via complementary interactions of leaders and followers
     in termite mating pairs
   authors:
@@ -162,7 +162,7 @@
   image: https://lh4.googleusercontent.com/R0Mt3WJYCzr5OxSgGhl87NtYH4YcEorwA4G-hE51onN2pTf0goLYQ0LpfDNN_76Boy0m3d1L7lFoyew2u9lcQQ4o0HuVjCLU8b9or6xyZL5YzDpvdwGq274Rcvdm5UYC3g=w1280
   plugin: sources.py
   file: sources.yaml
-- id: 10.1016/j.ejop.2020.125742
+- id: doi:10.1016/j.ejop.2020.125742
   title: Spirotrichonymphea (Parabasalia) symbionts of the termite Paraneotermes simplicicornis
   authors:
   - Stephen J. Taerum
@@ -177,7 +177,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: 10.1111/1365-2656.13320
+- id: doi:10.1111/1365-2656.13320
   title: Termite males enhance mating encounters by changing speed according to density
   authors:
   - Nobuaki Mizumoto
@@ -190,7 +190,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: 10.7554/eLife.55395
+- id: doi:10.7554/eLife.55395
   title: Revealing the structure of information flows discriminates similar animal
     social behaviors
   authors:
@@ -205,7 +205,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: 10.1093/aesa/saaa017
+- id: doi:10.1093/aesa/saaa017
   title: Behavioral Rules for Soil Excavation by Colony Founders and Workers in Termites
   authors:
   - Nobuaki Mizumoto
@@ -218,7 +218,89 @@
   image: https://lh5.googleusercontent.com/Ojv44KfKGayQkj5tRSWnVRwno5gxeB7ye1fiVRuqYpKxk9KwejT-Ms1pxrTZ4mqYrLeX3nugkVoFmJEezTIVgo2Wi52FJJpQkWbfFjGhsNjExf7bL12N_Ddn_UVEK8nHDg=w1280
   plugin: sources.py
   file: sources.yaml
-- id: 10.1126/sciadv.aau6108
+- id: doi:10.1086/711020
+  title: Complex Relationship between Tunneling Patterns and Individual Behaviors
+    in Termites
+  authors:
+  - Nobuaki Mizumoto
+  - Paul M. Bardunias
+  - Stephen C. Pratt
+  publisher: The American Naturalist
+  date: '2020-11-01'
+  link: https://doi.org/ghtbjw
+  type: paper
+  image: https://pbs.twimg.com/media/EiGbzsEUYAEmxLx?format=jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/ece3.6381
+  title: Modern termites inherited the potential of collective construction from their
+    common ancestor
+  authors:
+  - Nobuaki Mizumoto
+  - Thomas Bourguignon
+  publisher: Ecology and Evolution
+  date: '2020-06-02'
+  link: https://doi.org/gthxk9
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41598-020-64388-4
+  title: Chemical identification of an aggregation pheromone in the termite Reticulitermes
+    speratus
+  authors:
+  - Yuki Mitaka
+  - Shigeru Matsuyama
+  - Nobuaki Mizumoto
+  - Kenji Matsuura
+  - Toshiharu Akino
+  publisher: Scientific Reports
+  date: '2020-05-04'
+  link: https://doi.org/gth3qf
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/phen.12315
+  title: "Caste\u2010biased locomotor activities in isolated termites"
+  authors:
+  - Hiroyuki Shimoji
+  - Nobuaki Mizumoto
+  - Kohei Oguchi
+  - Shigeto Dobata
+  publisher: Physiological Entomology
+  date: '2019-12-01'
+  link: https://doi.org/gth3qg
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/jeu.12765
+  title: 'Molecular Phylogenetic Position of <i>Hoplonympha natator</i> (Trichonymphea,
+    Parabasalia): Horizontal Symbiont Transfer or Differential Loss?'
+  authors:
+  - Evan D. Mee
+  - Maya G. Gaylor
+  - "Daniel E. Jasso\u2010Selles"
+  - Nobuaki Mizumoto
+  - Gillian H. Gile
+  publisher: Journal of Eukaryotic Microbiology
+  date: '2019-10-12'
+  link: https://doi.org/gth3qh
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1098/rspb.2019.0891
+  title: Inferring collective behaviour from a fossilized fish shoal
+  authors:
+  - Nobuaki Mizumoto
+  - Shinya Miyata
+  - Stephen C. Pratt
+  publisher: 'Proceedings of the Royal Society B: Biological Sciences'
+  date: '2019-05-29'
+  link: https://doi.org/c6jt
+  type: paper
+  image: https://static01.nyt.com/images/2019/06/04/science/29TB-FISHFOSSIL1/29TB-FISHFOSSIL1-superJumbo.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1126/sciadv.aau6108
   title: Adaptive switch to sexually dimorphic movements by partner-seeking termites
   authors:
   - Nobuaki Mizumoto
@@ -229,7 +311,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: 10.1186/s12915-018-0563-y
+- id: doi:10.1186/s12915-018-0563-y
   title: Loss of males from mixed-sex societies in termites
   authors:
   - Toshihisa Yashiro
@@ -246,20 +328,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: 10.1086/711020
-  title: Complex Relationship between Tunneling Patterns and Individual Behaviors
-    in Termites
-  authors:
-  - Nobuaki Mizumoto
-  - Paul M. Bardunias
-  - Stephen C. Pratt
-  publisher: The American Naturalist
-  date: '2020-11-01'
-  link: https://doi.org/ghtbjw
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1086/697238
+- id: doi:10.1086/697238
   title: 'A Genomic Imprinting Model of Termite Caste Determination: Not Genetic but
     Epigenetic Inheritance Influences Offspring Caste Fate'
   authors:
@@ -278,7 +347,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: 10.1038/s41598-017-14626-z
+- id: doi:10.1038/s41598-017-14626-z
   title: Nature of collective decision-making by simple yes/no decision units
   authors:
   - Eisuke Hasegawa
@@ -295,7 +364,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: 10.1007/s10144-017-0584-3
+- id: doi:10.1007/s10144-017-0584-3
   title: 'Pairing strategy after today''s failure: unpaired termites synchronize mate
     search using photic cycles'
   authors:
@@ -308,7 +377,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: 10.1371/journal.pone.0177480
+- id: doi:10.1371/journal.pone.0177480
   title: 'Anomalous diffusion on the servosphere: A potential tool for detecting inherent
     organismal movement patterns'
   authors:
@@ -324,7 +393,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: 10.1098/rsif.2017.0086
+- id: doi:10.1098/rsif.2017.0086
   title: Optimizing mating encounters by sexually dimorphic movements
   authors:
   - Nobuaki Mizumoto
@@ -336,7 +405,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: 10.1016/j.anbehav.2016.07.007
+- id: doi:10.1016/j.anbehav.2016.07.007
   title: Male same-sex pairing as an adaptive strategy for future reproduction in
     termites
   authors:
@@ -349,7 +418,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: 10.1098/rsos.150360
+- id: doi:10.1098/rsos.150360
   title: Emergence of intercolonial variation in termite shelter tube patterns and
     prediction of its underlying mechanism
   authors:
@@ -362,7 +431,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: 10.1007/s00040-013-0319-1
+- id: doi:10.1007/s00040-013-0319-1
   title: Colony-specific architecture of shelter tubes by termites
   authors:
   - N. Mizumoto
