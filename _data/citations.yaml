@@ -1,5 +1,46 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2024.02.01.578198
+  title: Wasted efforts impair random search efficiency and reduce choosiness in mate-pairing
+    termites
+  authors:
+  - Nobuaki Mizumoto
+  - Naohisa Nagaya
+  - Ryusuke Fujisawa
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-02-06'
+  link: https://doi.org/gthxkr
+  type: preprint
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2023.12.25.573318
+  title: The significance of social interactions in synchronized swarming flight in
+    a termite
+  authors:
+  - Nobuaki Mizumoto
+  - Tomonari Nozaki
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-12-26'
+  link: https://doi.org/gthxks
+  type: preprint
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/12/26/2023.12.25.573318/F1.large.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2023.05.22.541647
+  title: Extinct and extant termites reveal the fidelity of behavior fossilization
+    in amber
+  authors:
+  - Nobuaki Mizumoto
+  - Simon Hellemans
+  - Michael S Engel
+  - Thomas Bourguignon
+  - "Ale\u0161 Bu\u010Dek"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-05-24'
+  link: https://doi.org/gthxkv
+  type: preprint
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.xpro.2023.102769
   title: Protocol to obtain long movement trajectories of leaders and followers in
     ant tandem runs
@@ -25,7 +66,7 @@
   date: '2023-08-01'
   link: https://doi.org/gthxkt
   type: paper
-  image: https://github.com/nobuaki-mzmt/tmanual/raw/main/images/output.gif
+  image: image/pub/Mizumoto-etal-2020-AmNat.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.isci.2023.106418
@@ -115,7 +156,20 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1111/evo.14457
+  title: Termite nest evolution fostered social parasitism by termitophilous rove
+    beetles
+  authors:
+  - Nobuaki Mizumoto
+  - Thomas Bourguignon
+  - Taisuke Kanao
+  publisher: Evolution
+  date: '2022-03-31'
+  link: https://doi.org/grt74j
+  type: paper
   image: https://lh3.googleusercontent.com/mHKhp-uuZiAP6AgwdkKIKZkYkDsl-NSas04RtzbwykZXk53PJvOpfHXKEiNEA6NGikCAbdUQAVKsf9Bi1plQohpHGZ8I-9K426up9lAXgSbBBXfoNCZQxoVnf90918VZew=w1280
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1073/pnas.2009533118
   title: Enhanced heterozygosity from male meiotic chromosome chains is superseded
     by hybrid female asexuality in termites
@@ -159,7 +213,7 @@
   date: '2021-07-14'
   link: https://doi.org/gsxp5m
   type: paper
-  image: https://lh4.googleusercontent.com/R0Mt3WJYCzr5OxSgGhl87NtYH4YcEorwA4G-hE51onN2pTf0goLYQ0LpfDNN_76Boy0m3d1L7lFoyew2u9lcQQ4o0HuVjCLU8b9or6xyZL5YzDpvdwGq274Rcvdm5UYC3g=w1280
+  image: images/pub/Mizumoto-etal-2021-PRSB.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.ejop.2020.125742
@@ -188,6 +242,7 @@
   date: '2020-09-20'
   link: https://doi.org/gthxk7
   type: paper
+  image: images/pub/Mizumoto-etal-2020-JAE.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.7554/eLife.55395
@@ -203,6 +258,7 @@
   date: '2020-07-30'
   link: https://doi.org/gthxk8
   type: paper
+  image: https://iiif.elifesciences.org/digests/55395%2Fdigest-55395.jpg/full/2000,/0/default.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/aesa/saaa017
@@ -229,7 +285,7 @@
   date: '2020-11-01'
   link: https://doi.org/ghtbjw
   type: paper
-  image: https://pbs.twimg.com/media/EiGbzsEUYAEmxLx?format=jpg
+  image: https://groups.oist.jp/sites/default/files/styles/group_image/public/eventimg/2009/PhotosForLastPage.jpg?itok=VcsuS7eW
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/ece3.6381
@@ -242,6 +298,7 @@
   date: '2020-06-02'
   link: https://doi.org/gthxk9
   type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/0678ece2-8778-4ddb-88c6-4b7e40a505c8/ece36381-fig-0001-m.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41598-020-64388-4
@@ -309,6 +366,19 @@
   date: '2019-06-01'
   link: https://doi.org/gsvq37
   type: paper
+  image: https://media.kjzz.org/s3fs-public/styles/special_story_images_aspect_switcher/public/field/image/Ant-Tandem-Lab-06192019.jpg?itok=DgQG90yD
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s10015-018-0474-6
+  title: 'Barricade construction by primitive termites: task allocation and evolutionary
+    perspectives'
+  authors:
+  - Nobuaki Mizumoto
+  publisher: Artificial Life and Robotics
+  date: '2018-09-21'
+  link: https://doi.org/gthxmc
+  type: paper
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs10015-018-0474-6/MediaObjects/10015_2018_474_Fig2_HTML.jpg?as=webp
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12915-018-0563-y
@@ -403,6 +473,7 @@
   date: '2017-05-01'
   link: https://doi.org/gthxmf
   type: paper
+  image: image/pub/Mizumoto-etal-2017_JRSI.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.anbehav.2016.07.007
@@ -416,6 +487,7 @@
   date: '2016-09-01'
   link: https://doi.org/f8zb8p
   type: paper
+  image: image/pub/Mizumoto-etal-2016-AB.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1098/rsos.150360
@@ -440,5 +512,6 @@
   date: '2013-09-14'
   link: https://doi.org/f5c9nn
   type: paper
+  image: https://www.science.org/do/10.1126/article.23914/full/sn-termites_1-1644923258330.jpg
   plugin: sources.py
   file: sources.yaml
