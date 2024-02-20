@@ -6,6 +6,7 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publication
+
 {% include list.html data="citations" component="citation" style="rich" %}
 
 <!--
