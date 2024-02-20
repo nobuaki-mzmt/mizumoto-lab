@@ -1,4 +1,4 @@
-{% assign background = page.header | default: site.header | relative_url %}
+{% assign image = page.header | default: site.header | relative_url %}
 {% assign dark = page.header-dark | is_nil: site.header-dark | is_nil: true %}
 
 {% comment %}
@@ -39,19 +39,13 @@
       </span>
     {% endif %}
   </a>
-  <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
+  <!-- <input class="nav-toggle" type="checkbox" aria-label="show/hide nav"> -->
 
-  <nav>
-    {% assign pages = site.pages
-      | where_exp: "page", "page.nav"
-      | sort: "nav.order"
-    %}
+  <nav class="nav_row">
+    {% assign pages = site.pages | where_exp: "page", "page.nav" | sort: "nav.order" %}
     {% for page in pages %}
       {% if page.nav %}
-        <a
-          href="{{ page.dir | relative_url }}"
-          data-tooltip="{{ page.nav.tooltip }}"
-        >
+        <a href="{{ page.dir | relative_url }}" data-tooltip="{{ page.nav.tooltip }}" >
           {{ page.title }}
         </a>
       {% endif %}
