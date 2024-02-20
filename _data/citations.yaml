@@ -7,9 +7,9 @@
   - Nobuaki Mizumoto
   - Naohisa Nagaya
   - Ryusuke Fujisawa
-  publisher: Cold Spring Harbor Laboratory
+  publisher: bioRxiv
   date: '2024-02-06'
-  link: https://doi.org/gthxkr
+  link: https://doi.org/10.1101/2024.02.01.578198
   type: preprint
   plugin: sources.py
   file: sources.yaml
@@ -19,9 +19,9 @@
   authors:
   - Nobuaki Mizumoto
   - Tomonari Nozaki
-  publisher: Cold Spring Harbor Laboratory
+  publisher: bioRxiv
   date: '2023-12-26'
-  link: https://doi.org/gthxks
+  link: https://doi.org/10.1101/2023.12.25.573318
   type: preprint
   images: https://www.biorxiv.org/content/biorxiv/early/2023/12/26/2023.12.25.573318/F1.large.jpg
   plugin: sources.py
@@ -35,9 +35,9 @@
   - Michael S Engel
   - Thomas Bourguignon
   - "Ale\u0161 Bu\u010Dek"
-  publisher: Cold Spring Harbor Laboratory
+  publisher: bioRxiv
   date: '2023-05-24'
-  link: https://doi.org/gthxkv
+  link: https://doi.org/10.1101/2023.05.22.541647
   type: preprint
   plugin: sources.py
   file: sources.yaml
@@ -126,6 +126,7 @@
   date: '2022-05-12'
   link: https://doi.org/gthxk4
   type: paper
+  images: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-022-11512-1/MediaObjects/41598_2022_11512_Fig1_HTML.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/molbev/msac093
@@ -154,6 +155,7 @@
   date: '2022-05-01'
   link: https://doi.org/gp626b
   type: paper
+  image: https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d53711a7-e7be-48fa-87f2-e3f07384b753/Rendition/low-res/Content/Public
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/evo.14457
@@ -186,6 +188,7 @@
   date: '2021-12-13'
   link: https://doi.org/gthxk5
   type: paper
+  image: https://www.pnas.org/cms/10.1073/pnas.2009533118/asset/26acce7b-7ba2-4804-987c-abde3e706b0b/assets/images/large/pnas.2009533118fig03.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1098/rspb.2021.1458
@@ -288,6 +291,7 @@
   images: https://groups.oist.jp/sites/default/files/styles/group_images/public/eventimg/2009/PhotosForLastPage.jpg?itok=VcsuS7eW
   plugin: sources.py
   file: sources.yaml
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-018-21437-3/MediaObjects/41598_2018_21437_Fig1_HTML.jpg?as=webp
 - id: doi:10.1002/ece3.6381
   title: Modern termites inherited the potential of collective construction from their
     common ancestor
@@ -327,6 +331,7 @@
   date: '2019-12-01'
   link: https://doi.org/gth3qg
   type: paper
+  image: https://xpic.x-mol.com/20200501/10.1111_phen.12315.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/jeu.12765
@@ -396,6 +401,7 @@
   date: '2018-09-25'
   link: https://doi.org/gthxmb
   type: paper
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12915-018-0563-y/MediaObjects/12915_2018_563_Fig2_HTML.png?as=webp
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1086/697238
@@ -415,6 +421,7 @@
   date: '2018-06-01'
   link: https://doi.org/gdj9pg
   type: paper
+  image: https://www.journals.uchicago.edu/cms/10.1086/697238/asset/images/medium/fg6.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41598-017-14626-z
@@ -432,6 +439,7 @@
   date: '2017-10-31'
   link: https://doi.org/gthxmd
   type: paper
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-017-14626-z/MediaObjects/41598_2017_14626_Fig1_HTML.jpg?as=webp
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s10144-017-0584-3
@@ -461,6 +469,7 @@
   date: '2017-06-01'
   link: https://doi.org/gbgwbm
   type: paper
+  image: images/pub/ANALHEIMELECTRONICS_20161014_164850.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1098/rsif.2017.0086

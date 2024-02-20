@@ -2,15 +2,21 @@
 # Mizumoto N.*, Nagaya N. & Fujisawa R. (2024) Wasted efforts impair random search efficiency and reduce choosiness in mate-pairing termites. bioRxiv, DOI: 10.1101/2024.02.01.578198 (submit to Ecology) 
 - id: doi:10.1101/2024.02.01.578198
   type: preprint
+  publisher: bioRxiv
+  link: https://doi.org/10.1101/2024.02.01.578198
 
 # Mizumoto N.* & Nozaki T. (2023) The significance of social interactions in synchronized swarming flight in a termite. bioRxiv, DOI: 10.1101/2023.12.25.573318 (under review at Proceedings of the Royal Society B)
 - id: doi:10.1101/2023.12.25.573318
   type: preprint
+  publisher: bioRxiv
+  link: https://doi.org/10.1101/2023.12.25.573318
   images: https://www.biorxiv.org/content/biorxiv/early/2023/12/26/2023.12.25.573318/F1.large.jpg
 
 
 - id: doi:10.1101/2023.05.22.541647
   type: preprint
+  publisher: bioRxiv
+  link: https://doi.org/10.1101/2023.05.22.541647
 
 
 # 2023
@@ -43,10 +49,12 @@
 # 28. Lee S.B.*, Chouvenc T., Mizumoto N., Mullins A. & Su N.Y. (2022) Age-based spatial distribution of workers is resilient to worker loss in a subterranean termite. Scientific Reports, 12:7837, DOI: 10.1038/s41598-022-11512-1
 - id: doi:10.1038/s41598-022-11512-1
   type: paper
+  images: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-022-11512-1/MediaObjects/41598_2022_11512_Fig1_HTML.png
 
 # 27. Buček A., Wang M., Šobotník J., Sillam-Dussès D., Mizumoto N., Stiblík P., Clitheroe C., Lu T., González Plaza J. J., Mohagan A., Rafanomezantsoa J. J., Fisher B., Engel M., Roisin Y., Evans T., Scheffrahn R. & Bourguignon T.* (2022) Molecular phylogeny reveals the past transoceanic voyages of drywood termites (Isoptera, Kalotermitidae). Molecular Biology and Evolution, 39(5):msa093, DOI: 10.1093/molbev/msac093
 - id: doi:10.1093/molbev/msac093
   type: paper
+  image: https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d53711a7-e7be-48fa-87f2-e3f07384b753/Rendition/low-res/Content/Public
 
 # 26. Mizumoto N.*, Bourguignon T. & Kanao T. (2022) Termite nest evolution fostered social parasitism by termitophilous rove beetles. Evolution, 76(5):1064-1072, DOI:10.1111/evo.14457
 - id: doi:10.1111/evo.14457
@@ -57,6 +65,7 @@
 # 25. Yashiro T.*, Tea Y-K., Wal C.V.D., Nozaki T., Mizumoto N., Hellemans S., Matsuura K. & Lo N. (2021) Enhanced heterozygosity from male meiotic chromosome chains is superseded by hybrid female asexuality in termites. Proceedings of the National Academy of Science, 118, e2009533118, DOI:10.1073/pnas.2009533118
 - id: doi:10.1073/pnas.2009533118
   type: paper
+  image: https://www.pnas.org/cms/10.1073/pnas.2009533118/asset/26acce7b-7ba2-4804-987c-abde3e706b0b/assets/images/large/pnas.2009533118fig03.jpg
 
 # 24. Mizumoto N.* & Bourguignon T. The evolution of body size in termites. (2021) Proceedings of the Royal Society B, 288: 20211458, DOI: 10.1098/rspb.2021.1458
 - id: doi:10.1098/rspb.2021.1458
@@ -106,6 +115,7 @@
 # 15. Shimoji H.*#, Mizumoto N.#, Oguchi K. & Dobata S. (2019) Caste-biased locomotor activities in isolated termites. Physiological Entomology 45: 50-59 DOI:10.1111/phen.12315
 - id: doi:10.1111/phen.12315
   type: paper
+  image: https://xpic.x-mol.com/20200501/10.1111_phen.12315.jpg
 
 # 14. Mee E. D., Gaylor M. G., Jasso-Selles D. E., Mizumoto N. & Gile G. H.* (2019) Molecular phylogenetic position of Hoplonympha natator (Trichonymphea, Parabasalia). Journal of Eukaryotic Microbiology 67: 268-272 DOI:10.1111/jeu.12765
 - id: doi:10.1111/jeu.12765
@@ -130,20 +140,24 @@
 # 10. Yashiro T.*, Lo N., Kobayashi K., Nozaki T., Fuchikawa T., Mizumoto N., Namba Y. & Matsuura K. (2018) Loss of males from mixed-sex societies in termites BMC Biology 16: 96 DOI:10.1186/s12915-018-0563-y
 - id: doi:10.1186/s12915-018-0563-y
   type: paper
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12915-018-0563-y/MediaObjects/12915_2018_563_Fig2_HTML.png?as=webp
 
 # 9.  Mizumoto N.* & Dobata S. (2018) The optimal movement patterns for mating encounters with sexually asymmetric detection ranges. Scientific Reports 8: 3356 DOI:10.1038/s41598-018-21437-3
 - id: doi:10.1086/711020
   type: paper
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-018-21437-3/MediaObjects/41598_2018_21437_Fig1_HTML.jpg?as=webp
 
 # 8.  Matsuura K.*#, Mizumoto N.#, Kobayashi K., Nozaki T., Fujita T., Yashiro T., Fuchikawa T., Mitaka Y. & Vargo E. L. (2018) A genomic imprinting model of termite caste determination: Not genetic but epigenetic inheritance influences offspring caste fate. The American Naturalists 191(6): 677-690 DOI:10.1086/697238
 - id: doi:10.1086/697238
   type: paper
+  image: https://www.journals.uchicago.edu/cms/10.1086/697238/asset/images/medium/fg6.gif
 
 # 2017
 # 7.  Hasegawa E.*#, Mizumoto N.#, Kobayashi K., Dobata S., Yoshimura J. Watanabe S., Murakami Y. & Matsuura K. (2017) Nature of collective decision-making by simple yes/no decision units. Scientific Reports 7:14436 DOI:10.1038/s41598-017-14626-z 
 - id: doi:10.1038/s41598-017-14626-z 
   type: paper
-
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-017-14626-z/MediaObjects/41598_2017_14626_Fig1_HTML.jpg?as=webp
+  
 # 6.  Mizumoto N.*, Fuchikawa T. & Matsuura K. (2017) Pairing strategy after today's failure: unpaired termites synchronize mate search using photic cycles. Population Ecology 59(3): 205-211. DOI:10.1007/s10144-017-0584-3 
 - id: doi:10.1007/s10144-017-0584-3 
   type: paper
@@ -151,6 +165,7 @@
 # 5.  Nagaya N.*#, Mizumoto N.#, Abe M. S., Dobata S., Sato R. & Fujisawa R.* (2017) Anomalous diffusion on the servosphere: a potential tool for detecting inherent organismal movement patterns. PLOS ONE 12(6): e0177480. DOI:10.1371/journal.pone.0177480 
 - id: doi:10.1371/journal.pone.0177480 
   type: paper
+  image: images/pub/ANALHEIMELECTRONICS_20161014_164850.jpg
 
 # 4.  Mizumoto N.*, Abe M. S.* & Dobata S.* (2017) Optimizing mating encounters by sexually dimorphic movements. Journal of the Royal Society Interface 14: 20170086. DOI:10.1098/rsif.2017.0086
 - id: doi:10.1098/rsif.2017.0086
