@@ -1,16 +1,3 @@
 - id: doi:10.1016/j.xpro.2023.102769
   type: paper
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2666166723007360-fx1.jpg
-
-- id: doi:10.1002/ece3.10394
-  type: paper
-  image: https://onlinelibrary.wiley.com/cms/asset/4ca3deaf-85e6-469b-88b8-fce5bdf4a0f3/ece310394-fig-0002-m.jpg
-
-- id: 10.1016/j.isci.2023.106418
-  type: paper
-  image: https://www.cell.com/cms/attachment/7c371333-2e51-4206-99f7-cf419502554c/fx1.jpg
-
-- id: 10.1073/pnas.2212401119
-  type: paper
-  image: https://www.pnas.org/cms/10.1073/pnas.2212401119/asset/0802f2c7-810d-492b-984b-002c5211982c/assets/images/large/pnas.2212401119fig01.jpg
-  
