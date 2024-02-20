@@ -23,7 +23,7 @@
   date: '2023-12-26'
   link: https://doi.org/gthxks
   type: preprint
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/12/26/2023.12.25.573318/F1.large.jpg
+  images: https://www.biorxiv.org/content/biorxiv/early/2023/12/26/2023.12.25.573318/F1.large.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2023.05.22.541647
@@ -54,7 +54,7 @@
   date: '2023-12-01'
   link: https://doi.org/gthtqb
   type: paper
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2666166723007360-fx1.jpg
+  images: https://ars.els-cdn.com/content/images/1-s2.0-S2666166723007360-fx1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/ece3.10394
@@ -66,7 +66,7 @@
   date: '2023-08-01'
   link: https://doi.org/gthxkt
   type: paper
-  image: image/pub/Mizumoto-etal-2020-AmNat.gif
+  images: images/pub/Mizumoto-etal-2020-AmNat.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.isci.2023.106418
@@ -83,7 +83,7 @@
   date: '2023-04-01'
   link: https://doi.org/gthxkw
   type: paper
-  image: https://www.cell.com/cms/attachment/7c371333-2e51-4206-99f7-cf419502554c/fx1.jpg
+  images: https://www.cell.com/cms/attachment/7c371333-2e51-4206-99f7-cf419502554c/fx1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/een.13209
@@ -96,7 +96,7 @@
   date: '2022-11-22'
   link: https://doi.org/gthxkx
   type: paper
-  image: https://resjournals.onlinelibrary.wiley.com/cms/asset/f68cdf04-0e37-4824-ba66-44d7dbc3248a/een13209-fig-0001-m.jpg
+  images: https://resjournals.onlinelibrary.wiley.com/cms/asset/f68cdf04-0e37-4824-ba66-44d7dbc3248a/een13209-fig-0001-m.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1073/pnas.2212401119
@@ -110,7 +110,7 @@
   date: '2022-11-08'
   link: https://doi.org/gq7f52
   type: paper
-  image: https://www.pnas.org/cms/10.1073/pnas.2212401119/asset/0802f2c7-810d-492b-984b-002c5211982c/assets/images/large/pnas.2212401119fig01.jpg
+  images: https://www.pnas.org/cms/10.1073/pnas.2212401119/asset/0802f2c7-810d-492b-984b-002c5211982c/assets/images/large/pnas.2212401119fig01.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41598-022-11512-1
@@ -167,7 +167,7 @@
   date: '2022-03-31'
   link: https://doi.org/grt74j
   type: paper
-  image: https://lh3.googleusercontent.com/mHKhp-uuZiAP6AgwdkKIKZkYkDsl-NSas04RtzbwykZXk53PJvOpfHXKEiNEA6NGikCAbdUQAVKsf9Bi1plQohpHGZ8I-9K426up9lAXgSbBBXfoNCZQxoVnf90918VZew=w1280
+  images: https://lh3.googleusercontent.com/mHKhp-uuZiAP6AgwdkKIKZkYkDsl-NSas04RtzbwykZXk53PJvOpfHXKEiNEA6NGikCAbdUQAVKsf9Bi1plQohpHGZ8I-9K426up9lAXgSbBBXfoNCZQxoVnf90918VZew=w1280
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1073/pnas.2009533118
@@ -197,7 +197,7 @@
   date: '2021-11-17'
   link: https://doi.org/gnjz9x
   type: paper
-  image: https://www.oist.jp/sites/default/files/styles/background_image_xl_low_1x/public/20220114-HeaderImage-AColonyOfTermites.jpg?h=56b840cf&itok=_CJhu3rn
+  images: https://www.oist.jp/sites/default/files/styles/background_images_xl_low_1x/public/20220114-Headerimages-AColonyOfTermites.jpg?h=56b840cf&itok=_CJhu3rn
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1098/rspb.2021.0998
@@ -213,7 +213,7 @@
   date: '2021-07-14'
   link: https://doi.org/gsxp5m
   type: paper
-  image: images/pub/Mizumoto-etal-2021-PRSB.jpg
+  images: images/pub/Mizumoto-etal-2021-PRSB.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.ejop.2020.125742
@@ -242,7 +242,7 @@
   date: '2020-09-20'
   link: https://doi.org/gthxk7
   type: paper
-  image: images/pub/Mizumoto-etal-2020-JAE.jpg
+  images: images/pub/Mizumoto-etal-2020-JAE.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.7554/eLife.55395
@@ -258,7 +258,7 @@
   date: '2020-07-30'
   link: https://doi.org/gthxk8
   type: paper
-  image: https://iiif.elifesciences.org/digests/55395%2Fdigest-55395.jpg/full/2000,/0/default.jpg
+  images: https://iiif.elifesciences.org/digests/55395%2Fdigest-55395.jpg/full/2000,/0/default.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/aesa/saaa017
@@ -271,7 +271,7 @@
   date: '2020-08-19'
   link: https://doi.org/gmz489
   type: paper
-  image: https://lh5.googleusercontent.com/Ojv44KfKGayQkj5tRSWnVRwno5gxeB7ye1fiVRuqYpKxk9KwejT-Ms1pxrTZ4mqYrLeX3nugkVoFmJEezTIVgo2Wi52FJJpQkWbfFjGhsNjExf7bL12N_Ddn_UVEK8nHDg=w1280
+  images: https://lh5.googleusercontent.com/Ojv44KfKGayQkj5tRSWnVRwno5gxeB7ye1fiVRuqYpKxk9KwejT-Ms1pxrTZ4mqYrLeX3nugkVoFmJEezTIVgo2Wi52FJJpQkWbfFjGhsNjExf7bL12N_Ddn_UVEK8nHDg=w1280
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1086/711020
@@ -285,7 +285,7 @@
   date: '2020-11-01'
   link: https://doi.org/ghtbjw
   type: paper
-  image: https://groups.oist.jp/sites/default/files/styles/group_image/public/eventimg/2009/PhotosForLastPage.jpg?itok=VcsuS7eW
+  images: https://groups.oist.jp/sites/default/files/styles/group_images/public/eventimg/2009/PhotosForLastPage.jpg?itok=VcsuS7eW
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/ece3.6381
@@ -298,7 +298,7 @@
   date: '2020-06-02'
   link: https://doi.org/gthxk9
   type: paper
-  image: https://onlinelibrary.wiley.com/cms/asset/0678ece2-8778-4ddb-88c6-4b7e40a505c8/ece36381-fig-0001-m.jpg
+  images: https://onlinelibrary.wiley.com/cms/asset/0678ece2-8778-4ddb-88c6-4b7e40a505c8/ece36381-fig-0001-m.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41598-020-64388-4
@@ -354,7 +354,7 @@
   date: '2019-05-29'
   link: https://doi.org/c6jt
   type: paper
-  image: https://static01.nyt.com/images/2019/06/04/science/29TB-FISHFOSSIL1/29TB-FISHFOSSIL1-superJumbo.jpg
+  images: https://static01.nyt.com/images/2019/06/04/science/29TB-FISHFOSSIL1/29TB-FISHFOSSIL1-superJumbo.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1126/sciadv.aau6108
@@ -366,7 +366,7 @@
   date: '2019-06-01'
   link: https://doi.org/gsvq37
   type: paper
-  image: https://media.kjzz.org/s3fs-public/styles/special_story_images_aspect_switcher/public/field/image/Ant-Tandem-Lab-06192019.jpg?itok=DgQG90yD
+  images: https://media.kjzz.org/s3fs-public/styles/special_story_images_aspect_switcher/public/field/images/Ant-Tandem-Lab-06192019.jpg?itok=DgQG90yD
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s10015-018-0474-6
@@ -378,7 +378,7 @@
   date: '2018-09-21'
   link: https://doi.org/gthxmc
   type: paper
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs10015-018-0474-6/MediaObjects/10015_2018_474_Fig2_HTML.jpg?as=webp
+  images: https://media.springernature.com/full/springer-static/images/art%3A10.1007%2Fs10015-018-0474-6/MediaObjects/10015_2018_474_Fig2_HTML.jpg?as=webp
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12915-018-0563-y
@@ -473,7 +473,7 @@
   date: '2017-05-01'
   link: https://doi.org/gthxmf
   type: paper
-  image: image/pub/Mizumoto-etal-2017_JRSI.gif
+  images: images/pub/Mizumoto-etal-2017_JRSI.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.anbehav.2016.07.007
@@ -487,7 +487,7 @@
   date: '2016-09-01'
   link: https://doi.org/f8zb8p
   type: paper
-  image: image/pub/Mizumoto-etal-2016-AB.png
+  images: images/pub/Mizumoto-etal-2016-AB.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1098/rsos.150360
@@ -512,6 +512,6 @@
   date: '2013-09-14'
   link: https://doi.org/f5c9nn
   type: paper
-  image: https://www.science.org/do/10.1126/article.23914/full/sn-termites_1-1644923258330.jpg
+  images: https://www.science.org/do/10.1126/article.23914/full/sn-termites_1-1644923258330.jpg
   plugin: sources.py
   file: sources.yaml
