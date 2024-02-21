@@ -5,6 +5,7 @@ header {
   flex-wrap: wrap;
   gap: 20px;
   padding: 20px;
+  padding-bottom: 0px;
   box-shadow: var(--shadow);
   position: sticky !important;
   top: 0;
@@ -14,6 +15,13 @@ header {
 header a {
   color: var(--text);
   text-decoration: none;
+}
+
+.title-nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px; /* Adjust padding as needed */
 }
 
 .home {
@@ -38,15 +46,15 @@ header a {
   display: flex;
   justify-content: flex-start;
   align-items: baseline;
-  flex-wrap: wrap;
   gap: 5px;
   min-width: 0;
   font-family: var(--title);
   text-align: left;
+  flex-grow: 2;
 }
 
 .title > *:first-child {
-  font-size: var(--large);
+  font-size: var(--medium);
 }
 
 .title > *:last-child {
@@ -85,7 +93,7 @@ header a {
 nav {
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: right;
   flex-wrap: wrap;
   gap: 10px;
   font-family: var(--heading);
@@ -121,7 +129,7 @@ header[data-big] {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: 100px 20px;
+  padding: 50px 20px;
   top: unset;
 }
 header[data-big] .home {
@@ -129,12 +137,20 @@ header[data-big] .home {
   flex-grow: 0;
 }
 header[data-big] .logo {
-  height: 80px;
+  height: 35px;
 }
 header[data-big] .title {
   flex-direction: column;
   align-items: center;
   text-align: center;
+  flex-grow: 2;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-right: 20px;
+}
+header[data-big] .nav_row {
+  margin-left: 20px;
 }
 header[data-big] .title > *:first-child {
   font-size: var(--xxl);
