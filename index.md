@@ -1,97 +1,32 @@
 ---
----
 
+---
 # Termite x Behavior x Evolution
 Mizumoto Lab is interested in the evolution of termite collective behavior. What is the rules for behavioral coordination? How they were originated in the history of life? We answer these questions by integrating field work, behavioral observations, computational tracking, and phylogenetic comparative analysis.  
 
-
-<div class="clearfix">
-<img src="images/Shelter-tubes.jpg" style = "width: 40%" align = left>
-
-### Termites
-We have > 3,000 species of termites, and they show a gradation of diverse collective behavior. We never be bored with thier behavior. We intentionally restricted our research (mainly) on termites for inspiration. Who wants to play soccer if you can use your hands? Do you have a research question? We can solve it with termites!  
-</div>
-
-<div class="clearfix">
-<img src="images/Shelter-tubes.jpg" style = "width: 40%" align = left>
-### Termites
-We have > 3,000 species of termites, and they show a gradation of diverse collective behavior. We never be bored with thier behavior. We intentionally restricted our research (mainly) on termites for inspiration. Who wants to play soccer if you can use your hands? Do you have a research question? We can solve it with termites!  
-</div>
-
-
-<!--
-{% include section.html %}
-
-## Highlights
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
 {%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
+  include feature.html
+  image="images/Shelter-tubes.jpg"
+  title="Termites"
+  text="We have > 3,000 species of termites, and they show a gradation of diverse collective behavior. We never be bored with thier behavior. We intentionally restricted our research (mainly) on termites for inspiration. Who wants to play soccer if you can use your hands? Do you have a research question? We can solve it with termites!  "
   flip=true
-  style="bare"
 %}
-
-{% endcapture %}
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
+  image="images/Shelter-tubes.jpg"
+  title="Computational behavioral analysis"
+  text="There are > 3,000 species of termites in this world, and they show a gradation of diverse collective behavior. So you will never be bored.
+We intentionally restricted our research (mainly) on termites for inspiration. Who wants to play soccer if you can use your hands? Do you have a research question? We can solve it with termites!"
   flip=true
-  style="bare"
 %}
-
-{% endcapture %}
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  image="images/Shelter-tubes.jpg"
+  title="Phylogeny and Evolution"
+  text="We have > 3,000 species of termites, and they show a gradation of diverse collective behavior. We never be bored with thier behavior. We intentionally restricted our research (mainly) on termites for inspiration. Who wants to play soccer if you can use your hands? Do you have a research question? We can solve it with termites!  "
   flip=true
-  style="bare"
-  text=text
 %}
 
-{% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
--->

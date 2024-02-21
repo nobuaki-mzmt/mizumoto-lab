@@ -18,37 +18,43 @@
     data-big
   {% endif %}
 >
-  <a href="{{ "/" | relative_url }}" class="home">
-    {% if logo %}
-      <span class="logo">
-        {% if svg %}
-          {{ svg | file_read }}
-        {% else %}
-          <img src="{{ logo | relative_url }}" alt="logo">
-        {% endif %}
-      </span>
-    {% endif %}
-    {% if site.logo-text != false %}
-      <span class="title" data-tooltip="Home">
-        {% if site.title and site.show-title != false %}
-          <span>{{ site.title }}</span>
-        {% endif %}
-        {% if site.subtitle and site.show-subtitle != false %}
-          <span>{{ site.subtitle }}</span>
-        {% endif %}
-      </span>
-    {% endif %}
-  </a>
-  <!-- <input class="nav-toggle" type="checkbox" aria-label="show/hide nav"> -->
-
-  <nav class="nav_row">
-    {% assign pages = site.pages | where_exp: "page", "page.nav" | sort: "nav.order" %}
-    {% for page in pages %}
-      {% if page.nav %}
-        <a href="{{ page.dir | relative_url }}" data-tooltip="{{ page.nav.tooltip }}" >
-          {{ page.title }}
-        </a>
+  {% if page.url == "/" %}
+  <div class="title-nav-container">
+  {% endif %}
+    <a href="{{ "/" | relative_url }}" class="home">
+      {% if logo %}
+        <span class="logo">
+          {% if svg %}
+            {{ svg | file_read }}
+          {% else %}
+            <img src="{{ logo | relative_url }}" alt="logo">
+          {% endif %}
+        </span>
       {% endif %}
-    {% endfor %}
-  </nav>
+      {% if site.logo-text != false %}
+        <span class="title" data-tooltip="Home">
+          {% if site.title and site.show-title != false %}
+            <span>{{ site.title }}</span>
+          {% endif %}
+          {% if site.subtitle and site.show-subtitle != false %}
+            <span>{{ site.subtitle }}</span>
+          {% endif %}
+        </span>
+      {% endif %}
+    </a>
+    <!-- <input class="nav-toggle" type="checkbox" aria-label="show/hide nav"> -->
+
+    <nav class="nav_row">
+      {% assign pages = site.pages | where_exp: "page", "page.nav" | sort: "nav.order" %}
+      {% for page in pages %}
+        {% if page.nav %}
+          <a href="{{ page.dir | relative_url }}" data-tooltip="{{ page.nav.tooltip }}" >
+            {{ page.title }}
+          </a>
+        {% endif %}
+      {% endfor %}
+    </nav>
+  {% if page.url == "/" %}
+  </div>
+  {% endif %}
 </header>

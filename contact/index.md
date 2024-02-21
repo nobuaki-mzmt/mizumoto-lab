@@ -1,8 +1,8 @@
 ---
-title: Contact
+title: Opportunity
 nav:
   order: 5
-  tooltip: Email, address, and location
+  tooltip: Joining opportunity and contacts
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
