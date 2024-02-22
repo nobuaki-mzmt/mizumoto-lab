@@ -4,6 +4,7 @@
   type: preprint
   publisher: bioRxiv
   link: https://doi.org/10.1101/2024.02.01.578198
+  image: images/pub/Mizumoto-etal-2024-tired.jpg
 
 # Mizumoto N.* & Nozaki T. (2023) The significance of social interactions in synchronized swarming flight in a termite. bioRxiv, DOI: 10.1101/2023.12.25.573318 (under review at Proceedings of the Royal Society B)
 - id: doi:10.1101/2023.12.25.573318
@@ -28,7 +29,7 @@
 # 32. Mizumoto N.* (2023) TManual: Assistant for manually measuring length development in structures built by animals. Ecology and Evolution, 13(8):e10394, DOI: 10.1002/ece3.10394
 - id: doi:10.1002/ece3.10394
   type: paper
-  image: images/pub/Mizumoto-etal-2020-AmNat.gif
+  image: images/pub/Mizumoto-2023-EcolEvol.gif
 
 # 31  Mizumoto N.#*, Tanaka Y.#, Valentini G., Richardson O. T., Annagiri S., Pratt. C. S. & Shimoji H. (2023) Functional and mechanistic diversity in ant tandem runs. iScience, 26(4):106418, DOI: 10.1016/j.isci.2023.106418
 - id: doi:10.1016/j.isci.2023.106418
@@ -81,6 +82,7 @@
 # 22. Taerum S.J.*, Jasso-Selles D.E., Hileman J.T., De Marini F., Mizumoto N. & Gile G.H. (2020) Spirotrichonymphea symbionts of the termite Paraneotermes simplicicornis.  European Journal of Protistology, 76: 125742, DOI:10.1016/j.ejop.2020.125742
 - id: doi:10.1016/j.ejop.2020.125742
   type: paper
+  image: images/pub/Taerum-etal-2020.jpg
 
 # 21. Mizumoto N.*, Rizo A., Pratt S.C. & Chouvenc T. (2020) Termite males enhance mating encounters by changing speed according to density. Journal of Animal Ecology, 89: 2542-2552, DOI:10.1111/1365-2656.13320 
 - id: doi:10.1111/1365-2656.13320 
@@ -90,17 +92,17 @@
 # 20. Valentini G., Mizumoto N., Pratt S.C., Pavlic T.P.* & Walker S.I.* (2020) Revealing the structure of information flows discriminates similar animal social behaviors. eLife, 9:e55395, DOI:10.7554/eLife.55395
 - id: doi:10.7554/eLife.55395
   type: paper
-  image: https://iiif.elifesciences.org/digests/55395%2Fdigest-55395.jpg/full/2000,/0/default.jpg
+  image: images/pub/Valentini-etal-2020-eLife.png
 
 #19. Mizumoto N.*, Gile G. H. & Pratt S.C. (2020) Behavioral rules for soil excavation by colony founders and workers in termites. Annals of the Entomological Society of America, 114(5):654-661, DOI:10.1093/aesa/saaa017
 - id: doi:10.1093/aesa/saaa017
   type: paper
-  image: https://lh5.googleusercontent.com/Ojv44KfKGayQkj5tRSWnVRwno5gxeB7ye1fiVRuqYpKxk9KwejT-Ms1pxrTZ4mqYrLeX3nugkVoFmJEezTIVgo2Wi52FJJpQkWbfFjGhsNjExf7bL12N_Ddn_UVEK8nHDg=w1280
+  image: images/pub/Mizumoto-etal-2020-AESA.png
 
 # 18. Mizumoto N.*, Bardunias P.M. & Pratt S.C. (2020) Complex relationship between tunneling patterns and individual behaviors in termites. American Naturalist, 196(5): 555-565, DOI:10.1086/711020
 - id: doi:10.1086/711020
   type: paper
-  image: https://groups.oist.jp/sites/default/files/styles/group_images/public/eventimg/2009/PhotosForLastPage.jpg?itok=VcsuS7eW
+  image: images/pub/Mizumoto-etal-2020-AmNat.png
 
 # 17. Mizumoto N.* & Bourguignon T. (2020) Modern termites inherited the potential of collective construction from their common ancestor. Ecology and Evolution, 10: 6775-6784 DOI:10.1002/ece3.6381
 - id: doi:10.1002/ece3.6381
@@ -110,16 +112,18 @@
 # 16. Mitaka Y.*, Matsuyama S., Mizumoto N., Matsuura K. & Akino T. (2020) Chemical identification of an aggregation pheromone in the termite Reticulitermes speratus. Scientific Reports 10: 7424 DOI:10.1038/s41598-020-64388-4
 - id: doi:10.1038/s41598-020-64388-4
   type: paper
+  image: images/pub/Mitaka-etal-2020-SciRep.png
 
 # 2019
 # 15. Shimoji H.*#, Mizumoto N.#, Oguchi K. & Dobata S. (2019) Caste-biased locomotor activities in isolated termites. Physiological Entomology 45: 50-59 DOI:10.1111/phen.12315
 - id: doi:10.1111/phen.12315
   type: paper
-  image: https://xpic.x-mol.com/20200501/10.1111_phen.12315.jpg
+  image: images/pub/Shimoji-etal-2019-PhysiolEntomol.png
 
 # 14. Mee E. D., Gaylor M. G., Jasso-Selles D. E., Mizumoto N. & Gile G. H.* (2019) Molecular phylogenetic position of Hoplonympha natator (Trichonymphea, Parabasalia). Journal of Eukaryotic Microbiology 67: 268-272 DOI:10.1111/jeu.12765
 - id: doi:10.1111/jeu.12765
   type: paper
+  image: images/pub/Mee-etal-2019.png
 
 # 13. Mizumoto N.*, Miyata S. & Pratt S. C. (2019) Inferring collective behavior from a fossilized fish shoal. Proceedings of the Royal Society B 286: 20190891 DOI: 10.1098/rspb.2019.0891
 - id: doi:10.1098/rspb.2019.0891
@@ -129,13 +133,13 @@
 # 12. Mizumoto N.* & Dobata S. Adaptive switch to sexually dimorphic movements by partner-seeking termites. (2019) Science Advances 5: eaau6108 DOI: 10.1126/sciadv.aau6108
 - id: doi:10.1126/sciadv.aau6108
   type: paper
-  image: https://media.kjzz.org/s3fs-public/styles/special_story_images_aspect_switcher/public/field/images/Ant-Tandem-Lab-06192019.jpg?itok=DgQG90yD
+  image: images/pub/Mizumoto-Dobata-2019-SciAdv.png
 
 # 2018
 # 11. Mizumoto N. (2018) Barricade construction by primitive termites: Task allocation and evolutionary perspectives. Artificial Life and Robotics 23: 469-473 DOI:10.1007/s10015-018-0474-6
 - id: doi:10.1007/s10015-018-0474-6
   type: paper
-  image: https://media.springernature.com/full/springer-static/images/art%3A10.1007%2Fs10015-018-0474-6/MediaObjects/10015_2018_474_Fig2_HTML.jpg?as=webp
+  image: images/pub/Mizumoto-2018.png
 
 # 10. Yashiro T.*, Lo N., Kobayashi K., Nozaki T., Fuchikawa T., Mizumoto N., Namba Y. & Matsuura K. (2018) Loss of males from mixed-sex societies in termites BMC Biology 16: 96 DOI:10.1186/s12915-018-0563-y
 - id: doi:10.1186/s12915-018-0563-y
@@ -156,11 +160,12 @@
 # 7.  Hasegawa E.*#, Mizumoto N.#, Kobayashi K., Dobata S., Yoshimura J. Watanabe S., Murakami Y. & Matsuura K. (2017) Nature of collective decision-making by simple yes/no decision units. Scientific Reports 7:14436 DOI:10.1038/s41598-017-14626-z 
 - id: doi:10.1038/s41598-017-14626-z 
   type: paper
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-017-14626-z/MediaObjects/41598_2017_14626_Fig1_HTML.jpg?as=webp
+  image: images/pub/Hasegawa-etal-2017-SciRep.png
   
 # 6.  Mizumoto N.*, Fuchikawa T. & Matsuura K. (2017) Pairing strategy after today's failure: unpaired termites synchronize mate search using photic cycles. Population Ecology 59(3): 205-211. DOI:10.1007/s10144-017-0584-3 
 - id: doi:10.1007/s10144-017-0584-3 
   type: paper
+  image: images/pub/Mizumoto-etal-2017-PE.png
 
 # 5.  Nagaya N.*#, Mizumoto N.#, Abe M. S., Dobata S., Sato R. & Fujisawa R.* (2017) Anomalous diffusion on the servosphere: a potential tool for detecting inherent organismal movement patterns. PLOS ONE 12(6): e0177480. DOI:10.1371/journal.pone.0177480 
 - id: doi:10.1371/journal.pone.0177480 
@@ -181,6 +186,7 @@
 # 2.  Mizumoto N.*, Kobayashi K. & Matsuura K. (2015) Emergence of intercolonial variation in termite shelter tube patterns and prediction of its underlying mechanism. Royal Society Open Science 2: 150360 DOI:10.1098/rsos.150360 
 - id: doi:10.1098/rsos.150360
   type: paper
+  image: images/pub/Mizumoto-etal-2015-RSOS.png
 
 # 1.  Mizumoto N. & Matsuura K.* (2013) Colony-specific architecture of shelter tubes by termites. Insectes Sociaux 60: 525-530. DOI:10.1007/s00040-013-0319-1 
 - id: doi:10.1007/s00040-013-0319-1 

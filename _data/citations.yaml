@@ -11,6 +11,7 @@
   date: '2024-02-06'
   link: https://doi.org/10.1101/2024.02.01.578198
   type: preprint
+  image: images/pub/Mizumoto-etal-2024-tired.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2023.12.25.573318
@@ -66,7 +67,7 @@
   date: '2023-08-01'
   link: https://doi.org/gthxkt
   type: paper
-  image: images/pub/Mizumoto-etal-2020-AmNat.gif
+  image: images/pub/Mizumoto-2023-EcolEvol.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.isci.2023.106418
@@ -232,6 +233,7 @@
   date: '2020-10-01'
   link: https://doi.org/gth3pv
   type: paper
+  image: images/pub/Taerum-etal-2020.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/1365-2656.13320
@@ -261,7 +263,7 @@
   date: '2020-07-30'
   link: https://doi.org/gthxk8
   type: paper
-  image: https://iiif.elifesciences.org/digests/55395%2Fdigest-55395.jpg/full/2000,/0/default.jpg
+  image: images/pub/Valentini-etal-2020-eLife.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/aesa/saaa017
@@ -274,7 +276,7 @@
   date: '2020-08-19'
   link: https://doi.org/gmz489
   type: paper
-  image: https://lh5.googleusercontent.com/Ojv44KfKGayQkj5tRSWnVRwno5gxeB7ye1fiVRuqYpKxk9KwejT-Ms1pxrTZ4mqYrLeX3nugkVoFmJEezTIVgo2Wi52FJJpQkWbfFjGhsNjExf7bL12N_Ddn_UVEK8nHDg=w1280
+  image: images/pub/Mizumoto-etal-2020-AESA.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1086/711020
@@ -288,7 +290,7 @@
   date: '2020-11-01'
   link: https://doi.org/ghtbjw
   type: paper
-  image: https://groups.oist.jp/sites/default/files/styles/group_images/public/eventimg/2009/PhotosForLastPage.jpg?itok=VcsuS7eW
+  image: images/pub/Mizumoto-etal-2020-AmNat.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/ece3.6381
@@ -317,6 +319,7 @@
   date: '2020-05-04'
   link: https://doi.org/gth3qf
   type: paper
+  image: images/pub/Mitaka-etal-2020-SciRep.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/phen.12315
@@ -330,7 +333,7 @@
   date: '2019-12-01'
   link: https://doi.org/gth3qg
   type: paper
-  image: https://xpic.x-mol.com/20200501/10.1111_phen.12315.jpg
+  image: images/pub/Shimoji-etal-2019-PhysiolEntomol.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/jeu.12765
@@ -346,6 +349,7 @@
   date: '2019-10-12'
   link: https://doi.org/gth3qh
   type: paper
+  image: images/pub/Mee-etal-2019.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1098/rspb.2019.0891
@@ -370,7 +374,7 @@
   date: '2019-06-01'
   link: https://doi.org/gsvq37
   type: paper
-  image: https://media.kjzz.org/s3fs-public/styles/special_story_images_aspect_switcher/public/field/images/Ant-Tandem-Lab-06192019.jpg?itok=DgQG90yD
+  image: images/pub/Mizumoto-Dobata-2019-SciAdv.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s10015-018-0474-6
@@ -382,7 +386,7 @@
   date: '2018-09-21'
   link: https://doi.org/gthxmc
   type: paper
-  image: https://media.springernature.com/full/springer-static/images/art%3A10.1007%2Fs10015-018-0474-6/MediaObjects/10015_2018_474_Fig2_HTML.jpg?as=webp
+  image: images/pub/Mizumoto-2018.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12915-018-0563-y
@@ -451,7 +455,7 @@
   date: '2017-10-31'
   link: https://doi.org/gthxmd
   type: paper
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-017-14626-z/MediaObjects/41598_2017_14626_Fig1_HTML.jpg?as=webp
+  image: images/pub/Hasegawa-etal-2017-SciRep.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s10144-017-0584-3
@@ -465,6 +469,7 @@
   date: '2017-06-14'
   link: https://doi.org/gbxsvs
   type: paper
+  image: images/pub/Mizumoto-etal-2017-PE.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1371/journal.pone.0177480
@@ -522,6 +527,7 @@
   date: '2015-11-01'
   link: https://doi.org/gthxmg
   type: paper
+  image: images/pub/Mizumoto-etal-2015-RSOS.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s00040-013-0319-1
