@@ -54,7 +54,7 @@
   date: '2023-12-01'
   link: https://doi.org/gthtqb
   type: paper
-  image: https://ars.els-cdn.com/content/images/1-s2.0-S2666166723007360-fx1.jpg
+  image: images/pub/Tanaka-etal-2023-elife.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/ece3.10394
@@ -110,7 +110,7 @@
   date: '2022-11-08'
   link: https://doi.org/gq7f52
   type: paper
-  image: https://www.pnas.org/cms/10.1073/pnas.2212401119/asset/0802f2c7-810d-492b-984b-002c5211982c/assets/images/large/pnas.2212401119fig01.jpg
+  image: images/pub/Mizumoto-etal-2022-PNAS-crop.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41598-022-11512-1
@@ -169,7 +169,7 @@
   date: '2022-03-31'
   link: https://doi.org/grt74j
   type: paper
-  image: https://lh3.googleusercontent.com/mHKhp-uuZiAP6AgwdkKIKZkYkDsl-NSas04RtzbwykZXk53PJvOpfHXKEiNEA6NGikCAbdUQAVKsf9Bi1plQohpHGZ8I-9K426up9lAXgSbBBXfoNCZQxoVnf90918VZew=w1280
+  image: images/pub/Mizumoto-etal-2022-Evolution.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1073/pnas.2009533118
@@ -200,7 +200,7 @@
   date: '2021-11-17'
   link: https://doi.org/gnjz9x
   type: paper
-  image: https://www.oist.jp/sites/default/files/styles/background_images_xl_low_1x/public/20220114-Headerimages-AColonyOfTermites.jpg?h=56b840cf&itok=_CJhu3rn
+  image: images/pub/Mizumoto-Bourguignon-2021-PRSB.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1098/rspb.2021.0998
@@ -245,7 +245,7 @@
   date: '2020-09-20'
   link: https://doi.org/gthxk7
   type: paper
-  image: images/pub/Mizumoto-etal-2020-JAE.jpg
+  image: images/pub/Mizumoto-etal-2020-JAE.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.7554/eLife.55395
@@ -288,7 +288,7 @@
   date: '2020-11-01'
   link: https://doi.org/ghtbjw
   type: paper
-  image: images/pub/PerceSearch.gif
+  image: https://groups.oist.jp/sites/default/files/styles/group_images/public/eventimg/2009/PhotosForLastPage.jpg?itok=VcsuS7eW
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/ece3.6381
@@ -401,6 +401,19 @@
   link: https://doi.org/gthxmb
   type: paper
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12915-018-0563-y/MediaObjects/12915_2018_563_Fig2_HTML.png?as=webp
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1038/s41598-018-21437-3
+  title: The optimal movement patterns for mating encounters with sexually asymmetric
+    detection ranges
+  authors:
+  - Nobuaki Mizumoto
+  - Shigeto Dobata
+  publisher: Scientific Reports
+  date: '2018-02-20'
+  link: https://doi.org/gc5mt5
+  type: paper
+  image: images/pub/Mizumoto-Dobata-2018-SciRep.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1086/697238

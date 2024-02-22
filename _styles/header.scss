@@ -2,9 +2,9 @@
 ---
 
 // changing $logo-big and $big-padding -> change of header height
-$logo-big: 35px;
-$logo: 40px;
-$big-padding: 50px;
+$logo-big: 70px;
+$logo: 50px;
+$big-padding: 25px;
 $collapse: 500px;
 $sticky: true;
 
@@ -13,7 +13,7 @@ header {
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  gap: 20px;
+  gap: 0px;
   padding: 20px;
   padding-bottom: 0px;
   box-shadow: var(--shadow);
@@ -35,6 +35,12 @@ header a {
   justify-content: space-between;
   align-items: center;
   padding: 20px; /* Adjust padding as needed */
+}
+
+.logo-title-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
 }
 
 .home {
@@ -59,7 +65,7 @@ header a {
   display: flex;
   justify-content: flex-start;
   align-items: baseline;
-  gap: 5px;
+  gap: 10px;
   min-width: 0;
   font-family: var(--title);
   text-align: left;
@@ -147,7 +153,7 @@ header[data-big] {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: $big-padding 20px;
+  padding: $big-padding 10px;
 
   @if $sticky {
     top: unset;

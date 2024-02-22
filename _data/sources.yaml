@@ -23,7 +23,7 @@
 # 33. Tanaka Y., Valentini G., Pratt. C. S., Shimoji H., & Mizumoto N.* (2023) Obtaining long movement trajectories of leaders and followers in ant tandem runs. STAR Protocols, 4(4):102769, DOI: 10.1016/j.xpro.2023.102769
 - id: doi:10.1016/j.xpro.2023.102769
   type: paper
-  image: https://ars.els-cdn.com/content/images/1-s2.0-S2666166723007360-fx1.jpg
+  image: images/pub/Tanaka-etal-2023-elife.jpg
 
 # 32. Mizumoto N.* (2023) TManual: Assistant for manually measuring length development in structures built by animals. Ecology and Evolution, 13(8):e10394, DOI: 10.1002/ece3.10394
 - id: doi:10.1002/ece3.10394
@@ -44,7 +44,7 @@
 # 29  Mizumoto N.*, Bourguignon T., & Bailey W. N. (2022) Ancestral sex-role plasticity facilitates the evolution of same-sex sexual behavior. Proceedings of the National Academy of Science, 119(46):e2212401119, DOI: 10.1073/pnas.2212401119
 - id: doi:10.1073/pnas.2212401119
   type: paper
-  image: https://www.pnas.org/cms/10.1073/pnas.2212401119/asset/0802f2c7-810d-492b-984b-002c5211982c/assets/images/large/pnas.2212401119fig01.jpg
+  image: images/pub/Mizumoto-etal-2022-PNAS-crop.jpg
 
 # 28. Lee S.B.*, Chouvenc T., Mizumoto N., Mullins A. & Su N.Y. (2022) Age-based spatial distribution of workers is resilient to worker loss in a subterranean termite. Scientific Reports, 12:7837, DOI: 10.1038/s41598-022-11512-1
 - id: doi:10.1038/s41598-022-11512-1
@@ -59,7 +59,7 @@
 # 26. Mizumoto N.*, Bourguignon T. & Kanao T. (2022) Termite nest evolution fostered social parasitism by termitophilous rove beetles. Evolution, 76(5):1064-1072, DOI:10.1111/evo.14457
 - id: doi:10.1111/evo.14457
   type: paper
-  image: https://lh3.googleusercontent.com/mHKhp-uuZiAP6AgwdkKIKZkYkDsl-NSas04RtzbwykZXk53PJvOpfHXKEiNEA6NGikCAbdUQAVKsf9Bi1plQohpHGZ8I-9K426up9lAXgSbBBXfoNCZQxoVnf90918VZew=w1280
+  image: images/pub/Mizumoto-etal-2022-Evolution.jpeg
 
 # 2021
 # 25. Yashiro T.*, Tea Y-K., Wal C.V.D., Nozaki T., Mizumoto N., Hellemans S., Matsuura K. & Lo N. (2021) Enhanced heterozygosity from male meiotic chromosome chains is superseded by hybrid female asexuality in termites. Proceedings of the National Academy of Science, 118, e2009533118, DOI:10.1073/pnas.2009533118
@@ -70,7 +70,7 @@
 # 24. Mizumoto N.* & Bourguignon T. The evolution of body size in termites. (2021) Proceedings of the Royal Society B, 288: 20211458, DOI: 10.1098/rspb.2021.1458
 - id: doi:10.1098/rspb.2021.1458
   type: paper
-  image: https://www.oist.jp/sites/default/files/styles/background_images_xl_low_1x/public/20220114-Headerimages-AColonyOfTermites.jpg?h=56b840cf&itok=_CJhu3rn
+  image: images/pub/Mizumoto-Bourguignon-2021-PRSB.png
 
 # 23. Mizumoto N.*, Lee S.B., Valentini G., Chouvenc T. & Pratt S.C. (2021) Coordination of movement via complementary interactions of leaders and followers in termite mating pairs. Proceedings of the Royal Society B, 288:20210998, DOI:10.1098/rspb.2021.0998
 - id: doi:10.1098/rspb.2021.0998
@@ -85,7 +85,7 @@
 # 21. Mizumoto N.*, Rizo A., Pratt S.C. & Chouvenc T. (2020) Termite males enhance mating encounters by changing speed according to density. Journal of Animal Ecology, 89: 2542-2552, DOI:10.1111/1365-2656.13320 
 - id: doi:10.1111/1365-2656.13320 
   type: paper
-  image: images/pub/Mizumoto-etal-2020-JAE.jpg
+  image: images/pub/Mizumoto-etal-2020-JAE.gif
 
 # 20. Valentini G., Mizumoto N., Pratt S.C., Pavlic T.P.* & Walker S.I.* (2020) Revealing the structure of information flows discriminates similar animal social behaviors. eLife, 9:e55395, DOI:10.7554/eLife.55395
 - id: doi:10.7554/eLife.55395
@@ -143,9 +143,9 @@
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12915-018-0563-y/MediaObjects/12915_2018_563_Fig2_HTML.png?as=webp
 
 # 9.  Mizumoto N.* & Dobata S. (2018) The optimal movement patterns for mating encounters with sexually asymmetric detection ranges. Scientific Reports 8: 3356 DOI:10.1038/s41598-018-21437-3
-- id: doi:10.1086/711020
+- id: 10.1038/s41598-018-21437-3
   type: paper
-  image: images/pub/PerceSearch.gif
+  image: images/pub/Mizumoto-Dobata-2018-SciRep.gif
 
 # 8.  Matsuura K.*#, Mizumoto N.#, Kobayashi K., Nozaki T., Fujita T., Yashiro T., Fuchikawa T., Mitaka Y. & Vargo E. L. (2018) A genomic imprinting model of termite caste determination: Not genetic but epigenetic inheritance influences offspring caste fate. The American Naturalists 191(6): 677-690 DOI:10.1086/697238
 - id: doi:10.1086/697238
