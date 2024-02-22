@@ -1,6 +1,13 @@
 ---
 
 ---
+{% capture content %} 
+**Looking for graduate students for Fall 2024!** <br>
+If you are interested in a graduate student position (master or phd), please send your: 1) cover letter with your research interests and research experience (if any), and 2) your CV, to [nzm0095@auburn.edu](mailto:nzm0095@auburn.edu). <br>
+**Project** Comparative behavioral analysis of termite and cockroach species to infer the evolutionary origin of nesting and social behavior in termites. 
+ {{ lorem }}{% endcapture %} 
+{% include alert.html type="tip" content=content %} 
+
 # Termite x Behavior x Evolution
 Mizumoto Lab is interested in the evolution of termite collective behavior. What is the rules for behavioral coordination? How they were originated in the history of life? We answer these questions by integrating field work, behavioral observations, computational tracking, and phylogenetic comparative analysis.  
 
