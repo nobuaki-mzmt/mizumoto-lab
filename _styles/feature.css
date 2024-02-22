@@ -29,7 +29,7 @@
   font-size: var(--large);
   text-align: center;
   font-family: var(--heading);
-  font-weight: var(--semi-bold);
+  font-weight: var(--bold);
 }
 
 .feature[data-flip] {
