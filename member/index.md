@@ -19,7 +19,7 @@ nav:
 
 {% capture content %}
 
-{% include figure.html image="images/Nobu_Mizumoto.jpg" %}
+{% include figure.html image="images/member/Nobu_Mizumoto.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 
