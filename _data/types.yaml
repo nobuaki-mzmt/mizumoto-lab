@@ -48,6 +48,11 @@ home-page:
   text: Home Page
   tooltip: Home page
 
+press-release: 
+  icon: fa-duotone fa-newspaper
+  text: Press release
+  tooltip: Press release
+
 email:
   icon: fa-solid fa-envelope
   text: Email

@@ -56,6 +56,9 @@
   link: https://doi.org/gthtqb
   type: paper
   image: images/pub/Tanaka-etal-2023-elife.jpg
+  buttons:
+  - type: source
+    link: https://github.com/your-lab/some-repo
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/ece3.10394
@@ -375,6 +378,16 @@
   link: https://doi.org/gsvq37
   type: paper
   image: images/pub/Mizumoto-Dobata-2019-SciAdv.png
+  buttons:
+  - type: preprint
+    text: bioRxiv
+    link: https://www.biorxiv.org/content/10.1101/340919v1
+  - type: phd
+    text: Kyoto Univ
+    link: https://www.kyoto-u.ac.jp/ja/research-news/2019-07-09-0
+  - type: journal
+    text: KJZZ
+    link: https://kjzz.org/content/1014246/asu-study-termites-use-smart-searches-find-mates
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s10015-018-0474-6
@@ -500,6 +513,22 @@
   link: https://doi.org/gthxmf
   type: paper
   image: images/pub/Mizumoto-etal-2017_JRSI.gif
+  buttons:
+  - type: phd
+    text: Kyoto Univ
+    link: https://www.kyoto-u.ac.jp/ja/research-news/2017-05-10
+  - type: phd
+    text: NII
+    link: https://www.nii.ac.jp/news/release/2017/0510.html
+  - type: journal
+    text: mynavi news
+    link: https://news.mynavi.jp/techplus/article/20170511-a058/
+  - type: journal
+    text: "\u65E5\u672C\u7D4C\u6E08\u65B0\u805E"
+    link: https://www.nikkei.com/article/DGXLRSP444628_Q7A510C1000000/
+  - type: journal
+    text: GIZMODO
+    link: https://www.gizmodo.jp/2017/06/levy-walk-kyoto-univ.html
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.anbehav.2016.07.007
@@ -514,6 +543,19 @@
   link: https://doi.org/f8zb8p
   type: paper
   image: images/pub/Mizumoto-etal-2016-AB.png
+  buttons:
+  - type: phd
+    text: Kyoto Univ
+    link: https://www.kyoto-u.ac.jp/en/research-news/2016-08-18
+  - type: journal
+    text: UPI
+    link: https://www.upi.com/Science_News/2016/08/18/Same-sex-termite-pairs-raid-nests-of-happy-couples/3431471531979/
+  - type: journal
+    text: IFLScience
+    link: https://www.iflscience.com/gay-termites-kill-straight-males-steal-wives-37478
+  - type: journal
+    text: IT media news
+    link: https://www.itmedia.co.jp/news/articles/1608/18/news120.html
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1098/rsos.150360
@@ -528,6 +570,10 @@
   link: https://doi.org/gthxmg
   type: paper
   image: images/pub/Mizumoto-etal-2015-RSOS.png
+  buttons:
+  - type: phd
+    text: Kyoto Univ
+    link: https://www.kyoto-u.ac.jp/ja/research-news/2015-11-05
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s00040-013-0319-1
@@ -540,5 +586,9 @@
   link: https://doi.org/f5c9nn
   type: paper
   image: https://www.science.org/do/10.1126/article.23914/full/sn-termites_1-1644923258330.jpg
+  buttons:
+  - type: journal
+    text: ScienceShot
+    link: https://www.science.org/content/article/scienceshot-termite-architects-have-their-own-plans
   plugin: sources.py
   file: sources.yaml
