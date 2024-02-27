@@ -15,7 +15,8 @@ Please send me an email to discuss opportunities and funding possibilities.
 
 ## Undergraduate students
 Are you interested in insect behavior, social insects, and/or computational behavioral analysis? <br>
-Please send a brief message describing your background and motivation.
+Please send a brief message describing your background and motivation. <br>
+
 
 
 {% include section.html %}
