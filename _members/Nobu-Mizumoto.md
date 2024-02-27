@@ -1,5 +1,5 @@
 ---
-name: Nobuaki Mizumoto <br> <small>(水元 惟暁)</small>
+name: Nobuaki Mizumoto
 image: images/members/Nobu_Mizumoto.jpg
 role: pi
 aliases:
