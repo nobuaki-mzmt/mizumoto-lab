@@ -38,6 +38,11 @@ website:
   text: Website
   tooltip: Website
 
+cv:
+  icon: fa-solid fa-file
+  text: CV
+  tooltip: CV
+
 external:
   icon: fa-solid fa-up-right-from-square
   text: External Link
@@ -124,6 +129,14 @@ linkedin:
   text: LinkedIn
   tooltip: LinkedIn
   link: https://www.linkedin.com/in/$VALUE
+
+reseachgate:
+  icon: fa-brands fa-researchgate
+  text: Research Gate
+  tooltip: Research Gate
+  link: https://www.researchgate.net/profile/$VALUE
+
+
 
 # alerts
 

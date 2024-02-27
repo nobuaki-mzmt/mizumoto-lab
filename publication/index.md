@@ -5,10 +5,31 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Publication
+# {% include icon.html icon="fa-solid fa-microscope" %} Publication
 
-{% include list.html data="citations" component="citation" style="rich" %}
+Email to [nzm0095@auburn.edu](mailto:nzm0095@auburn.edu) if you need access to the full text.
 
+### 2024
+{% 
+  include list.html 
+  data="citations" 
+  component="citation" 
+  filters="date: ^2024" 
+  style="rich" 
+%}
+
+{% include section.html %}
+### Previous publications
+{% 
+  include list.html 
+  data="citations" 
+  component="citation" 
+  filters="date: [^2024][^2023]" 
+  style="rich" 
+%}
+
+{% include section.html %}
+Papers from Mizumoto Lab will apper in these [journals](https://docs.google.com/spreadsheets/d/1tNzj1UMuvO9vShVRI0QanOSFvRSSd8Q5cm1ndOqWjYg/).
 
 <!--
 

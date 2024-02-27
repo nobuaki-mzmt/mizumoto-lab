@@ -15,7 +15,7 @@ Mizumoto Lab is interested in the evolution of termite collective behavior. What
 
 
 {% capture content %} 
-We intentionally restricted our research (mainly) to termites for inspiration. Do you have a research question? We can solve it with termites! 
+We intentionally restricted our research (mainly) to termites for inspiration. Do you have a research question? We can answer it with termites! 
 {% endcapture %} 
 {%
   include feature.html
