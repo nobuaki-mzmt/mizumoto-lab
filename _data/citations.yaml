@@ -71,6 +71,12 @@
   link: https://doi.org/gthxkt
   type: paper
   image: images/pub/Mizumoto-2023-EcolEvol.gif
+  buttons:
+  - type: package
+    link: https://github.com/nobuaki-mzmt/tmanual
+  - type: preprint
+    text: bioRxiv
+    link: https://doi.org/10.1101/2022.12.21.521503
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.isci.2023.106418
@@ -88,6 +94,10 @@
   link: https://doi.org/gthxkw
   type: paper
   image: https://www.cell.com/cms/attachment/7c371333-2e51-4206-99f7-cf419502554c/fx1.jpg
+  buttons:
+  - type: preprint
+    text: bioRxiv
+    link: https://www.biorxiv.org/content/10.1101/2022.08.28.505613v1
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/een.13209
@@ -115,6 +125,13 @@
   link: https://doi.org/gq7f52
   type: paper
   image: images/pub/Mizumoto-etal-2022-PNAS-crop.jpg
+  buttons:
+  - type: preprint
+    text: bioRxiv
+    link: https://doi.org/10.1101/2022.06.20.496918
+  - type: phd
+    text: OIST
+    link: https://www.oist.jp/news-center/news/2022/12/11/sex-role-flexibility-key-evolution-homosexual-partnerships-termites
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41598-022-11512-1
@@ -160,6 +177,10 @@
   link: https://doi.org/gp626b
   type: paper
   image: https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d53711a7-e7be-48fa-87f2-e3f07384b753/Rendition/low-res/Content/Public
+  buttons:
+  - type: preprint
+    text: bioRxiv
+    link: https://doi.org/10.1101/2021.09.24.461667
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/evo.14457
@@ -174,6 +195,13 @@
   link: https://doi.org/grt74j
   type: paper
   image: images/pub/Mizumoto-etal-2022-Evolution.jpeg
+  buttons:
+  - type: phd
+    text: OIST
+    link: null
+  - type: phd
+    text: Yamagata Univ
+    link: https://www.yamagata-u.ac.jp/jp/information/press/20220418_2/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1073/pnas.2009533118
@@ -205,6 +233,25 @@
   link: https://doi.org/gnjz9x
   type: paper
   image: images/pub/Mizumoto-Bourguignon-2021-PRSB.png
+  buttons:
+  - type: preprint
+    text: bioRxiv
+    link: https://doi.org/10.1101/2021.09.30.462579
+  - type: phd
+    text: OIST
+    link: https://www.oist.jp/news-center/news/2022/1/14/new-study-overturns-popular-theory-evolution-termite-size
+  - type: journal
+    text: Phys.org
+    link: https://phys.org/news/2022-01-overturns-popular-theory-evolution-termite.html
+  - type: journal
+    text: ScinceDaily
+    link: https://www.sciencedaily.com/releases/2022/01/220114115651.htm
+  - type: journal
+    text: ScienceMag
+    link: https://scienmag.com/new-study-overturns-popular-theory-on-evolution-of-termite-size/
+  - type: journal
+    text: MIRAGE
+    link: https://www.miragenews.com/new-study-overturns-popular-theory-on-evolution-707081/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1098/rspb.2021.0998
@@ -221,6 +268,22 @@
   link: https://doi.org/gsxp5m
   type: paper
   image: images/pub/Mizumoto-etal-2021-PRSB.jpg
+  buttons:
+  - type: preprint
+    text: bioRxiv
+    link: https://doi.org/10.1101/2021.03.05.434098
+  - type: journal
+    text: PCT
+    link: https://www.pctonline.com/news/scientists-hone-in-how-termites-coordinate-mating-behavior-colony-success/
+  - type: journal
+    text: futurity
+    link: https://www.futurity.org/invasive-termite-species-2637642-2/
+  - type: journal
+    text: South Central Florida Life
+    link: https://www.southcentralfloridalife.com/indiantown/stories/scientists-zero-in-on-how-termites-coordinate-mating-behavior-for-colony-success,23895
+  - type: journal
+    text: Phys.org
+    link: https://phys.org/news/2021-10-scientists-termites-behavior-colony-success.html
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.ejop.2020.125742
@@ -267,6 +330,10 @@
   link: https://doi.org/gthxk8
   type: paper
   image: images/pub/Valentini-etal-2020-eLife.png
+  buttons:
+  - type: preprint
+    text: bioRxiv
+    link: https://doi.org/10.1101/765198
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/aesa/saaa017
@@ -280,6 +347,10 @@
   link: https://doi.org/gmz489
   type: paper
   image: images/pub/Mizumoto-etal-2020-AESA.png
+  buttons:
+  - type: journal
+    text: entomology today
+    link: https://entomologytoday.org/2020/08/19/digging-deep-secrets-within-termite-nests/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1086/711020
@@ -294,6 +365,10 @@
   link: https://doi.org/ghtbjw
   type: paper
   image: images/pub/Mizumoto-etal-2020-AmNat.png
+  buttons:
+  - type: preprint
+    text: bioRxiv
+    link: https://doi.org/10.1101/836346
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/ece3.6381
@@ -337,6 +412,10 @@
   link: https://doi.org/gth3qg
   type: paper
   image: images/pub/Shimoji-etal-2019-PhysiolEntomol.png
+  buttons:
+  - type: preprint
+    text: bioRxiv
+    link: https://www.biorxiv.org/content/10.1101/239475v1
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/jeu.12765
@@ -366,6 +445,31 @@
   link: https://doi.org/c6jt
   type: paper
   image: https://static01.nyt.com/images/2019/06/04/science/29TB-FISHFOSSIL1/29TB-FISHFOSSIL1-superJumbo.jpg
+  buttons:
+  - type: phd
+    text: ASU
+    link: https://news.asu.edu/20190530-asu-researcher-finds-first-fossilized-evidence-collective-behavior
+  - type: phd
+    text: Josai University
+    link: https://www.josai.jp/fossil_gallery/program-events/erismatopterus-levatus.html
+  - type: journal
+    text: ScienceNews
+    link: https://www.sciencenews.org/article/50-million-year-old-fossil-captures-swimming-school-fish?tgt=nr
+  - type: journal
+    text: NewYorkTimes
+    link: https://www.nytimes.com/2019/05/29/science/fossil-fish-school.html
+  - type: journal
+    text: The Atlantic
+    link: https://www.theatlantic.com/science/archive/2019/05/fossil-school-fish/590689/
+  - type: journal
+    text: Popular Science
+    link: https://www.popsci.com/megapixels-fossilized-ancient-fish-shoal/?dom=rss-default&src=syn
+  - type: journal
+    text: "\u671D\u65E5\u65B0\u805E"
+    link: https://www.asahi.com/articles/ASM502BV3M50ULBJ001.html
+  - type: book
+    text: TheScienceBreaker
+    link: https://thesciencebreaker.org/breaks/evolution-behaviour/the-social-life-of-a-fish-shoal-in-ancient-times
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1126/sciadv.aau6108

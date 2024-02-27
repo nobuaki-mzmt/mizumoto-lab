@@ -33,11 +33,21 @@
 - id: doi:10.1002/ece3.10394
   type: paper
   image: images/pub/Mizumoto-2023-EcolEvol.gif
+  buttons:
+    - type: package
+      link: https://github.com/nobuaki-mzmt/tmanual
+    - type: preprint
+      text: bioRxiv
+      link: https://doi.org/10.1101/2022.12.21.521503
 
 # 31  Mizumoto N.#*, Tanaka Y.#, Valentini G., Richardson O. T., Annagiri S., Pratt. C. S. & Shimoji H. (2023) Functional and mechanistic diversity in ant tandem runs. iScience, 26(4):106418, DOI: 10.1016/j.isci.2023.106418
 - id: doi:10.1016/j.isci.2023.106418
   type: paper
   image: https://www.cell.com/cms/attachment/7c371333-2e51-4206-99f7-cf419502554c/fx1.jpg
+  buttons:
+      - type: preprint
+        text: bioRxiv
+        link: https://www.biorxiv.org/content/10.1101/2022.08.28.505613v1
 
 # 2022
 # 30  Mizumoto N.* & Bourguignon T. (2022) Light alters activity but do not disturb tandem coordination of termite mating pairs. Ecological Entomology, 48(2):145-153, DOI: 10.1111/een.13209
@@ -49,6 +59,13 @@
 - id: doi:10.1073/pnas.2212401119
   type: paper
   image: images/pub/Mizumoto-etal-2022-PNAS-crop.jpg
+  buttons:
+      - type: preprint
+        text: bioRxiv
+        link: https://doi.org/10.1101/2022.06.20.496918
+      - type: phd
+        text: OIST
+        link: https://www.oist.jp/news-center/news/2022/12/11/sex-role-flexibility-key-evolution-homosexual-partnerships-termites
 
 # 28. Lee S.B.*, Chouvenc T., Mizumoto N., Mullins A. & Su N.Y. (2022) Age-based spatial distribution of workers is resilient to worker loss in a subterranean termite. Scientific Reports, 12:7837, DOI: 10.1038/s41598-022-11512-1
 - id: doi:10.1038/s41598-022-11512-1
@@ -59,11 +76,22 @@
 - id: doi:10.1093/molbev/msac093
   type: paper
   image: https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d53711a7-e7be-48fa-87f2-e3f07384b753/Rendition/low-res/Content/Public
+  buttons:
+      - type: preprint
+        text: bioRxiv
+        link: https://doi.org/10.1101/2021.09.24.461667
 
 # 26. Mizumoto N.*, Bourguignon T. & Kanao T. (2022) Termite nest evolution fostered social parasitism by termitophilous rove beetles. Evolution, 76(5):1064-1072, DOI:10.1111/evo.14457
 - id: doi:10.1111/evo.14457
   type: paper
   image: images/pub/Mizumoto-etal-2022-Evolution.jpeg
+  buttons:
+      - type: phd
+        text: OIST
+        link: 
+      - type: phd
+        text: Yamagata Univ
+        link: https://www.yamagata-u.ac.jp/jp/information/press/20220418_2/
 
 # 2021
 # 25. Yashiro T.*, Tea Y-K., Wal C.V.D., Nozaki T., Mizumoto N., Hellemans S., Matsuura K. & Lo N. (2021) Enhanced heterozygosity from male meiotic chromosome chains is superseded by hybrid female asexuality in termites. Proceedings of the National Academy of Science, 118, e2009533118, DOI:10.1073/pnas.2009533118
@@ -75,11 +103,46 @@
 - id: doi:10.1098/rspb.2021.1458
   type: paper
   image: images/pub/Mizumoto-Bourguignon-2021-PRSB.png
+  buttons:
+      - type: preprint
+        text: bioRxiv
+        link: https://doi.org/10.1101/2021.09.30.462579
+      - type: phd
+        text: OIST
+        link: https://www.oist.jp/news-center/news/2022/1/14/new-study-overturns-popular-theory-evolution-termite-size
+      - type: journal
+        text: Phys.org
+        link: https://phys.org/news/2022-01-overturns-popular-theory-evolution-termite.html
+      - type: journal
+        text: ScinceDaily
+        link: https://www.sciencedaily.com/releases/2022/01/220114115651.htm
+      - type: journal
+        text: ScienceMag
+        link: https://scienmag.com/new-study-overturns-popular-theory-on-evolution-of-termite-size/
+      - type: journal
+        text: MIRAGE
+        link: https://www.miragenews.com/new-study-overturns-popular-theory-on-evolution-707081/
 
 # 23. Mizumoto N.*, Lee S.B., Valentini G., Chouvenc T. & Pratt S.C. (2021) Coordination of movement via complementary interactions of leaders and followers in termite mating pairs. Proceedings of the Royal Society B, 288:20210998, DOI:10.1098/rspb.2021.0998
 - id: doi:10.1098/rspb.2021.0998
   type: paper
   image: images/pub/Mizumoto-etal-2021-PRSB.jpg
+  buttons:
+      - type: preprint
+        text: bioRxiv
+        link: https://doi.org/10.1101/2021.03.05.434098
+      - type: journal
+        text: PCT
+        link: https://www.pctonline.com/news/scientists-hone-in-how-termites-coordinate-mating-behavior-colony-success/
+      - type: journal
+        text: futurity
+        link: https://www.futurity.org/invasive-termite-species-2637642-2/
+      - type: journal
+        text: South Central Florida Life
+        link: https://www.southcentralfloridalife.com/indiantown/stories/scientists-zero-in-on-how-termites-coordinate-mating-behavior-for-colony-success,23895
+      - type: journal
+        text: Phys.org
+        link: https://phys.org/news/2021-10-scientists-termites-behavior-colony-success.html
 
 # 2020
 # 22. Taerum S.J.*, Jasso-Selles D.E., Hileman J.T., De Marini F., Mizumoto N. & Gile G.H. (2020) Spirotrichonymphea symbionts of the termite Paraneotermes simplicicornis.  European Journal of Protistology, 76: 125742, DOI:10.1016/j.ejop.2020.125742
@@ -96,22 +159,34 @@
 - id: doi:10.7554/eLife.55395
   type: paper
   image: images/pub/Valentini-etal-2020-eLife.png
+  buttons:
+        - type: preprint
+          text: bioRxiv
+          link: https://doi.org/10.1101/765198
 
 #19. Mizumoto N.*, Gile G. H. & Pratt S.C. (2020) Behavioral rules for soil excavation by colony founders and workers in termites. Annals of the Entomological Society of America, 114(5):654-661, DOI:10.1093/aesa/saaa017
 - id: doi:10.1093/aesa/saaa017
   type: paper
   image: images/pub/Mizumoto-etal-2020-AESA.png
+  buttons:
+      - type: journal
+        text: entomology today
+        link: https://entomologytoday.org/2020/08/19/digging-deep-secrets-within-termite-nests/
 
 # 18. Mizumoto N.*, Bardunias P.M. & Pratt S.C. (2020) Complex relationship between tunneling patterns and individual behaviors in termites. American Naturalist, 196(5): 555-565, DOI:10.1086/711020
 - id: doi:10.1086/711020
   type: paper
   image: images/pub/Mizumoto-etal-2020-AmNat.png
+  buttons:
+        - type: preprint
+          text: bioRxiv
+          link: https://doi.org/10.1101/836346
 
 # 17. Mizumoto N.* & Bourguignon T. (2020) Modern termites inherited the potential of collective construction from their common ancestor. Ecology and Evolution, 10: 6775-6784 DOI:10.1002/ece3.6381
 - id: doi:10.1002/ece3.6381
   type: paper
   image: https://onlinelibrary.wiley.com/cms/asset/0678ece2-8778-4ddb-88c6-4b7e40a505c8/ece36381-fig-0001-m.jpg
-
+  
 # 16. Mitaka Y.*, Matsuyama S., Mizumoto N., Matsuura K. & Akino T. (2020) Chemical identification of an aggregation pheromone in the termite Reticulitermes speratus. Scientific Reports 10: 7424 DOI:10.1038/s41598-020-64388-4
 - id: doi:10.1038/s41598-020-64388-4
   type: paper
@@ -122,6 +197,10 @@
 - id: doi:10.1111/phen.12315
   type: paper
   image: images/pub/Shimoji-etal-2019-PhysiolEntomol.png
+  buttons:
+      - type: preprint
+        text: bioRxiv
+        link: https://www.biorxiv.org/content/10.1101/239475v1
 
 # 14. Mee E. D., Gaylor M. G., Jasso-Selles D. E., Mizumoto N. & Gile G. H.* (2019) Molecular phylogenetic position of Hoplonympha natator (Trichonymphea, Parabasalia). Journal of Eukaryotic Microbiology 67: 268-272 DOI:10.1111/jeu.12765
 - id: doi:10.1111/jeu.12765
@@ -132,6 +211,31 @@
 - id: doi:10.1098/rspb.2019.0891
   type: paper
   image: https://static01.nyt.com/images/2019/06/04/science/29TB-FISHFOSSIL1/29TB-FISHFOSSIL1-superJumbo.jpg
+  buttons:
+      - type: phd
+        text: ASU
+        link: https://news.asu.edu/20190530-asu-researcher-finds-first-fossilized-evidence-collective-behavior
+      - type: phd
+        text: Josai University
+        link: https://www.josai.jp/fossil_gallery/program-events/erismatopterus-levatus.html
+      - type: journal
+        text: ScienceNews
+        link: https://www.sciencenews.org/article/50-million-year-old-fossil-captures-swimming-school-fish?tgt=nr
+      - type: journal
+        text: NewYorkTimes
+        link: https://www.nytimes.com/2019/05/29/science/fossil-fish-school.html
+      - type: journal
+        text: The Atlantic
+        link: https://www.theatlantic.com/science/archive/2019/05/fossil-school-fish/590689/
+      - type: journal
+        text: Popular Science
+        link: https://www.popsci.com/megapixels-fossilized-ancient-fish-shoal/?dom=rss-default&src=syn
+      - type: journal
+        text: 朝日新聞
+        link: https://www.asahi.com/articles/ASM502BV3M50ULBJ001.html
+      - type: book
+        text: TheScienceBreaker
+        link: https://thesciencebreaker.org/breaks/evolution-behaviour/the-social-life-of-a-fish-shoal-in-ancient-times
 
 # 12. Mizumoto N.* & Dobata S. Adaptive switch to sexually dimorphic movements by partner-seeking termites. (2019) Science Advances 5: eaau6108 DOI: 10.1126/sciadv.aau6108
 - id: doi:10.1126/sciadv.aau6108

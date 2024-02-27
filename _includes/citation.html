@@ -54,7 +54,7 @@
     </div>
 
     <div class="citation-details">
-      {{ citation.publisher | default: "[no publisher info]" }}
+      <em><b>{{ citation.publisher | default: "[no publisher info]" }}</b></em>
       &nbsp; · &nbsp;
       {{ citation.date | default: "[no date info]" | date: "%d %b %Y" }}
       &nbsp; · &nbsp;

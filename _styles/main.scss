@@ -6,3 +6,9 @@ main {
   flex-direction: column;
   flex-grow: 1;
 }
+
+.main_member_photo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
