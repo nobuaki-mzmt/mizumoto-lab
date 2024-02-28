@@ -48,6 +48,8 @@
       - type: preprint
         text: bioRxiv
         link: https://www.biorxiv.org/content/10.1101/2022.08.28.505613v1
+  tags:
+    - tandem
 
 # 2022
 # 30  Mizumoto N.* & Bourguignon T. (2022) Light alters activity but do not disturb tandem coordination of termite mating pairs. Ecological Entomology, 48(2):145-153, DOI: 10.1111/een.13209
@@ -66,6 +68,10 @@
       - type: phd
         text: OIST
         link: https://www.oist.jp/news-center/news/2022/12/11/sex-role-flexibility-key-evolution-homosexual-partnerships-termites
+  tags:
+    - tandem
+    - termite evolution
+  repo: nobuaki-mzmt/mizumoto-lab
 
 # 28. Lee S.B.*, Chouvenc T., Mizumoto N., Mullins A. & Su N.Y. (2022) Age-based spatial distribution of workers is resilient to worker loss in a subterranean termite. Scientific Reports, 12:7837, DOI: 10.1038/s41598-022-11512-1
 - id: doi:10.1038/s41598-022-11512-1

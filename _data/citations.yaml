@@ -98,6 +98,8 @@
   - type: preprint
     text: bioRxiv
     link: https://www.biorxiv.org/content/10.1101/2022.08.28.505613v1
+  tags:
+  - tandem
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/een.13209
@@ -132,6 +134,10 @@
   - type: phd
     text: OIST
     link: https://www.oist.jp/news-center/news/2022/12/11/sex-role-flexibility-key-evolution-homosexual-partnerships-termites
+  tags:
+  - tandem
+  - termite evolution
+  repo: nobuaki-mzmt/mizumoto-lab
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41598-022-11512-1

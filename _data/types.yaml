@@ -232,3 +232,9 @@ package:
   icon: fa-solid fa-box
   text: Package
   tooltip: Package
+
+# Others
+bug:
+  icon: fa-solid fa-bugs
+  text: Insects
+  tooltip: Insects

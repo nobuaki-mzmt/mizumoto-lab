@@ -13,7 +13,6 @@ If you are interested in a graduate student position (master or phd), please sen
 # Termite x Behavior x Evolution
 Mizumoto Lab is interested in the evolution of termite collective behavior. What are the rules for behavioral coordination? How did they originate in the history of life? We answer these questions by integrating field work, behavioral observations, computational tracking, and phylogenetic comparative analysis. See our [Publications](publication) and [Research](research) for details.
 
-
 {% capture content %} 
 We intentionally restricted our research (mainly) to termites for inspiration. Do you have a research question? We can answer it with termites! 
 {% endcapture %} 
