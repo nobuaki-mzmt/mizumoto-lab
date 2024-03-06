@@ -9,12 +9,11 @@ nav:
 
 Email to [nzm0095@auburn.edu](mailto:nzm0095@auburn.edu) if you need access to the full text.
 
-### 2024
 {% 
   include list.html 
   data="citations" 
   component="citation" 
-  filters="date: ^2024" 
+  filters="type: ^(?!old_paper$)" 
   style="rich" 
 %}
 
@@ -24,7 +23,7 @@ Email to [nzm0095@auburn.edu](mailto:nzm0095@auburn.edu) if you need access to t
   include list.html 
   data="citations" 
   component="citation" 
-  filters="date: [^2024][^2023]" 
+  filters="type: old_paper" 
   style="rich" 
 %}
 

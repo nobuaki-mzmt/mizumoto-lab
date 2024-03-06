@@ -171,6 +171,11 @@ paper:
   text: Paper
   tooltip: Paper
 
+old_paper:
+  icon: fa-solid fa-scroll
+  text: Paper
+  tooltip: Paper
+
 book:
   icon: fa-solid fa-book
   text: Book

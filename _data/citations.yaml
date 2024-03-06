@@ -65,7 +65,7 @@
   publisher: STAR Protocols
   date: '2023-12-01'
   link: https://doi.org/gthtqb
-  type: paper
+  type: old_paper
   image: images/pub/Tanaka-etal-2023-elife.jpg
   buttons:
   - type: source
@@ -80,7 +80,7 @@
   publisher: Ecology and Evolution
   date: '2023-08-01'
   link: https://doi.org/gthxkt
-  type: paper
+  type: old_paper
   image: images/pub/Mizumoto-2023-EcolEvol.gif
   buttons:
   - type: package
@@ -103,7 +103,7 @@
   publisher: iScience
   date: '2023-04-01'
   link: https://doi.org/gthxkw
-  type: paper
+  type: old_paper
   image: https://www.cell.com/cms/attachment/7c371333-2e51-4206-99f7-cf419502554c/fx1.jpg
   buttons:
   - type: preprint
@@ -122,7 +122,7 @@
   publisher: Ecological Entomology
   date: '2022-11-22'
   link: https://doi.org/gthxkx
-  type: paper
+  type: old_paper
   image: https://resjournals.onlinelibrary.wiley.com/cms/asset/f68cdf04-0e37-4824-ba66-44d7dbc3248a/een13209-fig-0001-m.jpg
   plugin: sources.py
   file: sources.yaml
@@ -136,7 +136,7 @@
   publisher: Proceedings of the National Academy of Sciences
   date: '2022-11-08'
   link: https://doi.org/gq7f52
-  type: paper
+  type: old_paper
   image: images/pub/Mizumoto-etal-2022-PNAS-crop.jpg
   buttons:
   - type: preprint
@@ -163,7 +163,7 @@
   publisher: Scientific Reports
   date: '2022-05-12'
   link: https://doi.org/gthxk4
-  type: paper
+  type: old_paper
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-022-11512-1/MediaObjects/41598_2022_11512_Fig1_HTML.png
   plugin: sources.py
   file: sources.yaml
@@ -192,7 +192,7 @@
   publisher: Molecular Biology and Evolution
   date: '2022-05-01'
   link: https://doi.org/gp626b
-  type: paper
+  type: old_paper
   image: https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d53711a7-e7be-48fa-87f2-e3f07384b753/Rendition/low-res/Content/Public
   buttons:
   - type: preprint
@@ -210,7 +210,7 @@
   publisher: Evolution
   date: '2022-03-31'
   link: https://doi.org/grt74j
-  type: paper
+  type: old_paper
   image: images/pub/Mizumoto-etal-2022-Evolution.jpeg
   buttons:
   - type: phd
@@ -236,7 +236,7 @@
   publisher: Proceedings of the National Academy of Sciences
   date: '2021-12-13'
   link: https://doi.org/gthxk5
-  type: paper
+  type: old_paper
   image: https://www.pnas.org/cms/10.1073/pnas.2009533118/asset/26acce7b-7ba2-4804-987c-abde3e706b0b/assets/images/large/pnas.2009533118fig03.jpg
   plugin: sources.py
   file: sources.yaml
@@ -248,7 +248,7 @@
   publisher: 'Proceedings of the Royal Society B: Biological Sciences'
   date: '2021-11-17'
   link: https://doi.org/gnjz9x
-  type: paper
+  type: old_paper
   image: images/pub/Mizumoto-Bourguignon-2021-PRSB.png
   buttons:
   - type: preprint
@@ -283,7 +283,7 @@
   publisher: 'Proceedings of the Royal Society B: Biological Sciences'
   date: '2021-07-14'
   link: https://doi.org/gsxp5m
-  type: paper
+  type: old_paper
   image: images/pub/Mizumoto-etal-2021-PRSB.jpg
   buttons:
   - type: preprint
@@ -315,7 +315,7 @@
   publisher: European Journal of Protistology
   date: '2020-10-01'
   link: https://doi.org/gth3pv
-  type: paper
+  type: old_paper
   image: images/pub/Taerum-etal-2020.jpg
   plugin: sources.py
   file: sources.yaml
@@ -329,7 +329,7 @@
   publisher: Journal of Animal Ecology
   date: '2020-09-20'
   link: https://doi.org/gthxk7
-  type: paper
+  type: old_paper
   image: images/pub/Mizumoto-etal-2020-JAE.gif
   plugin: sources.py
   file: sources.yaml
@@ -345,7 +345,7 @@
   publisher: eLife
   date: '2020-07-30'
   link: https://doi.org/gthxk8
-  type: paper
+  type: old_paper
   image: images/pub/Valentini-etal-2020-eLife.png
   buttons:
   - type: preprint
@@ -362,7 +362,7 @@
   publisher: Annals of the Entomological Society of America
   date: '2020-08-19'
   link: https://doi.org/gmz489
-  type: paper
+  type: old_paper
   image: images/pub/Mizumoto-etal-2020-AESA.png
   buttons:
   - type: journal
@@ -380,7 +380,7 @@
   publisher: The American Naturalist
   date: '2020-11-01'
   link: https://doi.org/ghtbjw
-  type: paper
+  type: old_paper
   image: images/pub/Mizumoto-etal-2020-AmNat.png
   buttons:
   - type: preprint
@@ -397,7 +397,7 @@
   publisher: Ecology and Evolution
   date: '2020-06-02'
   link: https://doi.org/gthxk9
-  type: paper
+  type: old_paper
   image: https://onlinelibrary.wiley.com/cms/asset/0678ece2-8778-4ddb-88c6-4b7e40a505c8/ece36381-fig-0001-m.jpg
   plugin: sources.py
   file: sources.yaml
@@ -413,7 +413,7 @@
   publisher: Scientific Reports
   date: '2020-05-04'
   link: https://doi.org/gth3qf
-  type: paper
+  type: old_paper
   image: images/pub/Mitaka-etal-2020-SciRep.png
   plugin: sources.py
   file: sources.yaml
@@ -427,7 +427,7 @@
   publisher: Physiological Entomology
   date: '2019-12-01'
   link: https://doi.org/gth3qg
-  type: paper
+  type: old_paper
   image: images/pub/Shimoji-etal-2019-PhysiolEntomol.png
   buttons:
   - type: preprint
@@ -447,7 +447,7 @@
   publisher: Journal of Eukaryotic Microbiology
   date: '2019-10-12'
   link: https://doi.org/gth3qh
-  type: paper
+  type: old_paper
   image: images/pub/Mee-etal-2019.png
   plugin: sources.py
   file: sources.yaml
@@ -460,7 +460,7 @@
   publisher: 'Proceedings of the Royal Society B: Biological Sciences'
   date: '2019-05-29'
   link: https://doi.org/c6jt
-  type: paper
+  type: old_paper
   image: https://static01.nyt.com/images/2019/06/04/science/29TB-FISHFOSSIL1/29TB-FISHFOSSIL1-superJumbo.jpg
   buttons:
   - type: phd
@@ -497,7 +497,7 @@
   publisher: Science Advances
   date: '2019-06-01'
   link: https://doi.org/gsvq37
-  type: paper
+  type: old_paper
   image: images/pub/Mizumoto-Dobata-2019-SciAdv.png
   buttons:
   - type: preprint
@@ -519,7 +519,7 @@
   publisher: Artificial Life and Robotics
   date: '2018-09-21'
   link: https://doi.org/gthxmc
-  type: paper
+  type: old_paper
   image: images/pub/Mizumoto-2018.png
   plugin: sources.py
   file: sources.yaml
@@ -537,7 +537,7 @@
   publisher: BMC Biology
   date: '2018-09-25'
   link: https://doi.org/gthxmb
-  type: paper
+  type: old_paper
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12915-018-0563-y/MediaObjects/12915_2018_563_Fig2_HTML.png?as=webp
   plugin: sources.py
   file: sources.yaml
@@ -550,7 +550,7 @@
   publisher: Scientific Reports
   date: '2018-02-20'
   link: https://doi.org/gc5mt5
-  type: paper
+  type: old_paper
   image: images/pub/Mizumoto-Dobata-2018-SciRep.gif
   plugin: sources.py
   file: sources.yaml
@@ -570,7 +570,7 @@
   publisher: The American Naturalist
   date: '2018-06-01'
   link: https://doi.org/gdj9pg
-  type: paper
+  type: old_paper
   image: https://www.journals.uchicago.edu/cms/10.1086/697238/asset/images/medium/fg6.gif
   plugin: sources.py
   file: sources.yaml
@@ -588,7 +588,7 @@
   publisher: Scientific Reports
   date: '2017-10-31'
   link: https://doi.org/gthxmd
-  type: paper
+  type: old_paper
   image: images/pub/Hasegawa-etal-2017-SciRep.png
   plugin: sources.py
   file: sources.yaml
@@ -602,7 +602,7 @@
   publisher: Population Ecology
   date: '2017-06-14'
   link: https://doi.org/gbxsvs
-  type: paper
+  type: old_paper
   image: images/pub/Mizumoto-etal-2017-PE.png
   plugin: sources.py
   file: sources.yaml
@@ -619,7 +619,7 @@
   publisher: PLOS ONE
   date: '2017-06-01'
   link: https://doi.org/gbgwbm
-  type: paper
+  type: old_paper
   image: images/pub/ANALHEIMELECTRONICS_20161014_164850.jpg
   plugin: sources.py
   file: sources.yaml
@@ -632,7 +632,7 @@
   publisher: Journal of The Royal Society Interface
   date: '2017-05-01'
   link: https://doi.org/gthxmf
-  type: paper
+  type: old_paper
   image: images/pub/Mizumoto-etal-2017_JRSI.gif
   buttons:
   - type: phd
@@ -662,7 +662,7 @@
   publisher: Animal Behaviour
   date: '2016-09-01'
   link: https://doi.org/f8zb8p
-  type: paper
+  type: old_paper
   image: images/pub/Mizumoto-etal-2016-AB.png
   buttons:
   - type: phd
@@ -689,7 +689,7 @@
   publisher: Royal Society Open Science
   date: '2015-11-01'
   link: https://doi.org/gthxmg
-  type: paper
+  type: old_paper
   image: images/pub/Mizumoto-etal-2015-RSOS.png
   buttons:
   - type: phd
@@ -705,7 +705,7 @@
   publisher: Insectes Sociaux
   date: '2013-09-14'
   link: https://doi.org/f5c9nn
-  type: paper
+  type: old_paper
   image: https://www.science.org/do/10.1126/article.23914/full/sn-termites_1-1644923258330.jpg
   buttons:
   - type: journal

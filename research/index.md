@@ -49,7 +49,7 @@ The structures built by social insects vary widely in pattern and complexity. Ho
 {% include section.html %}
 ## Evolutionary origin of termite characters
 {% capture content %}
-  {% include figure.html image="images/pest_phylogeny.png" caption="" width="350px" %}
+  {% include figure.html image="images/pest_phylogeny.png" width="350px" %}
 {% endcapture %}
 {%
   include float.html
@@ -62,13 +62,13 @@ There are more than 3,000 termite species in this world, but only handful specie
 {% include section.html %}
 ## Fossil behavior
 {% capture content %}
-  {% include figure.html image="images/fossil.png" caption="Caption" width="200px" %}
+  {% include figure.html image="images/pub/Mizumoto-etal-2024-PNAS.jpg" width="300px" %}
 {% endcapture %}
 {%
   include float.html
   content=content
   flip=true
 %}
-It is challenging to understand how collective behavior has evolved to its current form because inter-individual communication leaves only scarce fossil records. However, some insight can be gained from fossilized groups of animals, as a snapshot of a dynamic process of movement coordination. We keep looking for the oppotunity to analyze fossil from behavioral perspectives, even including comparisons with current living species. See [termite tandem fossil](https://doi.org/10.1101/2023.05.22.541647) and [fish school fossil](https://doi.org/doi:10.1098/rspb.2019.0891).<br><br>
+It is challenging to understand how collective behavior has evolved to its current form because inter-individual communication leaves only scarce fossil records. However, some insight can be gained from fossilized groups of animals, as a snapshot of a dynamic process of movement coordination. We keep looking for the oppotunity to analyze fossil from behavioral perspectives, even including comparisons with current living species. See [termite tandem fossil](https://doi.org/10.1073/pnas.2308922121) and [fish school fossil](https://doi.org/doi:10.1098/rspb.2019.0891).<br><br>
 
 ---[{% include icon.html icon="fa-solid fa-gem" %} Click here to learn more.](topics-fossil)
