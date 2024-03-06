@@ -27,19 +27,24 @@
   image: https://www.biorxiv.org/content/biorxiv/early/2023/12/26/2023.12.25.573318/F1.large.jpg
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2023.05.22.541647
+- id: doi:10.1073/pnas.2308922121
   title: Extinct and extant termites reveal the fidelity of behavior fossilization
     in amber
   authors:
   - Nobuaki Mizumoto
   - Simon Hellemans
-  - Michael S Engel
+  - Michael S. Engel
   - Thomas Bourguignon
   - "Ale\u0161 Bu\u010Dek"
-  publisher: bioRxiv
-  date: '2023-05-24'
-  link: https://doi.org/10.1101/2023.05.22.541647
-  type: preprint
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2024-03-05'
+  link: https://doi.org/gtkxht
+  type: paper
+  image: images/pub/Tanaka-etal-2023-elife.jpg
+  buttons:
+  - type: preprint
+    text: bioRxiv
+    link: https://doi.org/10.1101/2023.05.22.541647
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.xpro.2023.102769
