@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: /mizumoto-lab.github.io/sitemap.xml
