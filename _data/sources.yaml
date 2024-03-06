@@ -20,13 +20,13 @@
   type: paper
   image: images/pub/Mizumoto-etal-2024-PNAS.jpg
   buttons:
-  - type: preprint
+    - type: preprint
       text: bioRxiv
       link: https://doi.org/10.1101/2023.05.22.541647
-  - type: phd
+    - type: phd
       text: OIST
       link: https://www.oist.jp/news-center/news/2024/3/6/frozen-behaviors-amber-fossils-how-reconstruct-mating-behavior-long-extinct-termites
-  - type: journal
+    - type: journal
       text: IFLScience
       link: https://www.iflscience.com/extinct-termites-caught-mid-sexy-time-in-38-million-year-old-amber-73257
 
@@ -37,8 +37,8 @@
   type: paper
   image: images/pub/Tanaka-etal-2023-elife.jpg
   buttons:
-  - type: source
-    link: https://github.com/your-lab/some-repo
+    - type: source
+      link: https://github.com/your-lab/some-repo
 
 # 32. Mizumoto N.* (2023) TManual: Assistant for manually measuring length development in structures built by animals. Ecology and Evolution, 13(8):e10394, DOI: 10.1002/ece3.10394
 - id: doi:10.1002/ece3.10394
