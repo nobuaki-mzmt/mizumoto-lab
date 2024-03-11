@@ -1,5 +1,5 @@
 # Preprint under review
-# Mizumoto N.*, Lee S-B., Chouvenc T. (2024)
+# Mizumoto N.*, Lee S-B., Chouvenc T. (2024) The strength of sexual signals predicts same-sex paring in termites. 
 - id: doi:10.1101/2024.03.07.583902
   type: preprint
   publisher: bioRxiv
@@ -34,11 +34,18 @@
       text: OIST
       link: https://www.oist.jp/news-center/news/2024/3/6/frozen-behaviors-amber-fossils-how-reconstruct-mating-behavior-long-extinct-termites
     - type: phd
+      text: BCCAS
+      link: https://www.bc.cas.cz/novinky/detail/7174-pareni-termitu-pred-40-miliony-lety-se-uchovalo-v-jantaru-k-jeho-dekodovani-vsak-bylo-potreba-rentgenove-tomografie-i-pocitacove-analyzy-obrazu/
+    - type: phd
       text: AU
       link: https://agriculture.auburn.edu/feature/entomologists-find-evidence-of-current-mating-behavior-in-extinct-termites/
     - type: journal
+      text: NatGeo
+      link: https://www.nationalgeographic.com/animals/article/amber-fossils-termites-ancient-mating?loggedin=true&rnd=1710185786851
+    - type: journal
       text: IFLScience
       link: https://www.iflscience.com/extinct-termites-caught-mid-sexy-time-in-38-million-year-old-amber-73257
+    
 
 
 # 2023
