@@ -6,9 +6,11 @@ nav:
 ---
 # {% include icon.html icon="fa-regular fa-door-open" %}Join our lab
 ## Master & PhD students
-We are actively looking for graduate students for Fall 2024!<br>
-If you are interested in a graduate student position (master or phd), please send: 1) a cover letter mentioning research interests and research experience (if any), and 2) your CV, to [nzm0095@auburn.edu](mailto:nzm0095@auburn.edu). <br>
-**Project** Comparative behavioral analysis of termite and cockroach species to infer the evolutionary origin of nesting and social behavior in termites. See [here](https://www.dropbox.com/scl/fi/i2o5ci6506qb2x6xz5dzs/2024_grad_students.pdf?rlkey=qgw7g301p90h525pgmh3v2th9&dl=0) for more information.
+Graduate students at Department of Entomology & Plant Pathology at Auburn University are fully funded by Research Assistantship. <br>
+At this time, Mizumoto-lab is not accepting students. However, if you are very interested in joining the lab in the future. We are happy to start discussing the opportunity beforehand.
+<!-- We are actively looking for graduate students for Fall 2024!<br> -->
+<!-- If you are interested in a graduate student position (master or phd), please send: 1) a cover letter mentioning research interests and research experience (if any), and 2) your CV, to [nzm0095@auburn.edu](mailto:nzm0095@auburn.edu). <br> -->
+<!-- **Project** Comparative behavioral analysis of termite and cockroach species to infer the evolutionary origin of nesting and social behavior in termites. See [here](https://www.dropbox.com/scl/fi/i2o5ci6506qb2x6xz5dzs/2024_grad_students.pdf?rlkey=qgw7g301p90h525pgmh3v2th9&dl=0) for more information. -->
 
 ## Postdocs
 Please send me an email to discuss opportunities and funding possibilities.
