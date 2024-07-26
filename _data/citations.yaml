@@ -40,6 +40,19 @@
   image: https://www.biorxiv.org/content/biorxiv/early/2023/12/26/2023.12.25.573318/F1.large.jpg
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1111/1440-1703.12510
+  title: "Ant and termite collective behavior: Group\u2010level similarity arising\
+    \ from individual\u2010level diversity"
+  authors:
+  - Nobuaki Mizumoto
+  - Chris R. Reid
+  publisher: Ecological Research
+  date: '2024-07-23'
+  link: https://doi.org/gt4969
+  type: paper
+  image: images/pub/Mizumoto-Reid-2024.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1073/pnas.2308922121
   title: Extinct and extant termites reveal the fidelity of behavior fossilization
     in amber
