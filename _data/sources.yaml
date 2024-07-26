@@ -22,6 +22,11 @@
 
 
 # 2024
+# 38. Mizumoto N.* & Reid C. (2024) Ant and termite collective behavior: group-level similarity arising from individual-level diversity. Ecological Research, DOI: 10.1111/1440-1703.12510
+- id: doi:10.1111/1440-1703.12510
+  type: paper
+  image: images/pub/Mizumoto-Reid-2024.png
+
 # 34. Mizumoto N.*, Hellemans S., Engel M. S., Bourguignon T. & Buček A.* (2024) Extinct and extant termites reveal the fidelity of behavior fossilization in amber. Proceedings of the National Academy of Science, 121(12): e2308922121, DOI: 10.1073/pnas.230892212
 - id: doi:10.1073/pnas.2308922121
   type: paper
