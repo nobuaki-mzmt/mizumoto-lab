@@ -41,8 +41,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/1440-1703.12510
-  title: "Ant and termite collective behavior: Group\u2010level similarity arising\
-    \ from individual\u2010level diversity"
+  title: "Ant and termite collective behavior: Group\u2010level similarity arising from individual\u2010level diversity"
   authors:
   - Nobuaki Mizumoto
   - Chris R. Reid
