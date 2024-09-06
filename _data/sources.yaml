@@ -29,6 +29,11 @@
   type: paper
   image: images/pub/Mizumoto-Reid-2024.png
 
+# 37.	Hellemans S.*, Rocha M. M., Wang M., Aanen D. K., Bagneres A-G., Buček A., Carruhi T. F., Chouvenc T., Cuezzo C., Constantini J. P., Constantino R., Dedeine F., Deligne J., Eggleton P., Evans T. A., Josens G., Hanus R., Harrison M., Harry M., Jouault C., Kalleshwaraswamy C M., Kaymak E., Korb J., Lee C-Y., Legendre F., Li H-F., Lo N., Lu T., Matsuura K., Maekawa K., McMahon D., Mizumoto N., Oliveira D. E., Poulsen M., Arias J. R., Sillam-Dusses D., Su N-Y., Tokuda G., Vargo E., Ware J. L., Šobotník J., Scheffrahn R. H., Cancello E., Roisin Y., Engel M. S., Bourguignon T.* (2024) Genomic data bring a new dawn to the classification of extant termites. Nature Communications, 15(1): 6724, DOI: 10.1038/s41467-024-51028-y
+- id: doi:10.1038/s41467-024-51028-y
+  type: paper
+  image: https://www.oist.jp/sites/default/files/styles/embed_md/public/2024-08/Termite%20tree%20of%20life%20%284%29.png?itok=xueP_98R
+  
 # 34. Mizumoto N.*, Hellemans S., Engel M. S., Bourguignon T. & Buček A.* (2024) Extinct and extant termites reveal the fidelity of behavior fossilization in amber. Proceedings of the National Academy of Science, 121(12): e2308922121, DOI: 10.1073/pnas.230892212
 - id: doi:10.1073/pnas.2308922121
   type: paper
