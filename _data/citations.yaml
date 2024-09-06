@@ -58,6 +58,62 @@
   image: images/pub/Mizumoto-Reid-2024.png
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1038/s41467-024-51028-y
+  title: Genomic data provide insights into the classification of extant termites
+  authors:
+  - Simon Hellemans
+  - Mauricio M. Rocha
+  - Menglin Wang
+  - Johanna Romero Arias
+  - Duur K. Aanen
+  - "Anne-Genevi\xE8ve Bagn\xE8res"
+  - "Ale\u0161 Bu\u010Dek"
+  - Tiago F. Carrijo
+  - Thomas Chouvenc
+  - Carolina Cuezzo
+  - Joice P. Constantini
+  - Reginaldo Constantino
+  - Franck Dedeine
+  - Jean Deligne
+  - Paul Eggleton
+  - Theodore A. Evans
+  - Robert Hanus
+  - Mark C. Harrison
+  - Myriam Harry
+  - Guy Josens
+  - Corentin Jouault
+  - Chicknayakanahalli M. Kalleshwaraswamy
+  - Esra Kaymak
+  - Judith Korb
+  - Chow-Yang Lee
+  - "Fr\xE9d\xE9ric Legendre"
+  - Hou-Feng Li
+  - Nathan Lo
+  - Tomer Lu
+  - Kenji Matsuura
+  - Kiyoto Maekawa
+  - Dino P. McMahon
+  - Nobuaki Mizumoto
+  - Danilo E. Oliveira
+  - Michael Poulsen
+  - "David Sillam-Duss\xE8s"
+  - Nan-Yao Su
+  - Gaku Tokuda
+  - Edward L. Vargo
+  - Jessica L. Ware
+  - "Jan \u0160obotn\xEDk"
+  - Rudolf H. Scheffrahn
+  - Eliana Cancello
+  - Yves Roisin
+  - Michael S. Engel
+  - Thomas Bourguignon
+  publisher: Nature Communications
+  date: '2024-08-07'
+  link: https://doi.org/gvbmgv
+  type: paper
+  image: https://www.oist.jp/sites/default/files/styles/embed_md/public/2024-08/Termite%20tree%20of%20life%20%284%29.png?itok=xueP_98R
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1073/pnas.2308922121
   title: Extinct and extant termites reveal the fidelity of behavior fossilization
     in amber
