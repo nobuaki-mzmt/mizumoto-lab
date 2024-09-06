@@ -1,18 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2024.03.07.583902
-  title: The strength of sexual signals predicts same-sex paring in termites
-  authors:
-  - Nobuaki Mizumoto
-  - Sang-Bin Lee
-  - Thomas Chouvenc
-  publisher: bioRxiv
-  date: '2024-03-10'
-  link: https://doi.org/10.1101/2024.03.07.583902
-  type: preprint
-  image: https://connect.biorxiv.org/qr/qr_img.php?id=2024.03.07.583902
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1101/2024.02.01.578198
   title: Wasted efforts impair random search efficiency and reduce choosiness in mate-pairing
     termites
@@ -38,6 +25,24 @@
   link: https://doi.org/10.1101/2023.12.25.573318
   type: preprint
   image: https://www.biorxiv.org/content/biorxiv/early/2023/12/26/2023.12.25.573318/F1.large.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/beheco/arae067
+  title: The strength of sexual signals predicts same-sex pairing in two <i>Coptotermes</i>
+    termites
+  authors:
+  - Nobuaki Mizumoto
+  - Sang-Bin Lee
+  - Thomas Chouvenc
+  publisher: Behavioral Ecology
+  date: '2024-08-13'
+  link: https://doi.org/gvbmgs
+  type: paper
+  image: images/pub/Mizumoto-etal-2024-BE.gif
+  buttons:
+  - type: preprint
+    text: bioRxiv
+    link: https://doi.org/10.1101/2024.03.07.583902
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/1440-1703.12510
