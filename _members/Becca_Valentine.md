@@ -11,7 +11,7 @@ links:
   reseachgate: Rebecca-Valentine-3
 ---
 
-Becca Valentine is a research assistant in Dr. Mizumotos lab. She is primarily interested in eusocial insect behavior and cognition, and is studying the evolution of tunneling behavior in termites.
+Becca Valentine is a research assistant in Dr. Mizumotos lab. She is primarily interested in eusocial insect behavior, and is studying the evolution of tunneling behavior in termites.
 
 
 ### Education:
