@@ -1,0 +1,4 @@
+
+cd "F:\Dropbox\research\mizumoto-termite-lab"
+./.docker/run.sh
+
