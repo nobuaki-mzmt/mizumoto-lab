@@ -1,6 +1,6 @@
 ---
 name: Becca Valentine
-image: images/members/Becca_Valentine.jpg
+image: images/members/becca_valentine.jpg
 role: research_assistant
 aliases:
   - B. Valentine
