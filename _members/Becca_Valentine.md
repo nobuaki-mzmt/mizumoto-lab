@@ -1,6 +1,6 @@
 ---
 name: Becca Valentine
-image: images/members/becca_valentine.jpg
+image: images/members/becca_valentine.jpeg
 role: master
 aliases:
   - B. Valentine
