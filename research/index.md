@@ -47,7 +47,7 @@ The structures built by social insects vary widely in pattern and complexity. Ho
 
 
 {% include section.html %}
-## Evolutionary origin of termite characters
+## Evolutionary origin of termite behaviors
 {% capture content %}
   {% include figure.html image="images/pest_phylogeny.png" width="350px" %}
 {% endcapture %}
