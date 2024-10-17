@@ -23,6 +23,9 @@
     - type: preprint
       text: bioRxiv
       link: https://doi.org/10.1101/2024.02.01.578198
+    - type: preprint
+      text: free link for first 50 access
+      link: https://www.journals.uchicago.edu/eprint/VAPSFEKMYB3X5CB6ZBFS/full?redirectUri=/doi/epdf/10.1086/732877
   
 # 39.	Mizumoto N.*#, Lee S-B. # & Chouvenc T. (2024) The strength of sexual signals predicts same-sex pairing in two Coptotermes termites. Behavioral Ecology, 35(5): arae067, DOI: 10.1093/beheco/arae067
 - id: doi:10.1093/beheco/arae067
