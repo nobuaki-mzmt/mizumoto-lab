@@ -38,6 +38,9 @@
   - type: preprint
     text: bioRxiv
     link: https://doi.org/10.1101/2024.02.01.578198
+  - type: preprint
+    text: free link for first 50 access
+    link: https://www.journals.uchicago.edu/eprint/VAPSFEKMYB3X5CB6ZBFS/full?redirectUri=/doi/epdf/10.1086/732877
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/beheco/arae067
