@@ -17,7 +17,7 @@
     link: https://doi.org/10.1101/2023.12.25.573318
   plugin: sources.py
   file: sources.yaml
-- id: 10.1038/s41598-024-75247-x
+- id: doi:10.1038/s41598-024-75247-x
   title: Predation-driven geographical isolation of broods in periodical cicadas
   authors:
   - Diane Carmeliza N. Cuaresma
@@ -58,7 +58,7 @@
   - Ryusuke Fujisawa
   publisher: The American Naturalist
   date: '2024-08-26'
-  link: https://doi.org/10.1086/732877
+  link: https://doi.org/g8k28p
   type: paper
   image: images/pub/Mizumoto-etal-2024-tired.jpg
   buttons:
