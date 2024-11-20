@@ -38,7 +38,6 @@
   date: '2024-11-07'
   link: https://doi.org/g8rh62
   type: paper
-  image: https://royalsocietypublishing.org/cms/asset/e2e9db54-add6-4631-9144-a7f9f95bff03/rsbl.2024.0423.f001.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/jee/toae259
