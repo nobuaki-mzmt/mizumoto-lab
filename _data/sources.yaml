@@ -9,6 +9,8 @@
     - type: preprint
       text: bioRxiv
       link: https://doi.org/10.1101/2023.12.25.573318
+    - type: source
+      link: https://github.com/nobuaki-mzmt/Ret-kanmonensis-swarming
 
 # 42.	Cuaresma D. C. N., Gavina M. K. A., Rabajante J., Tubay J., Okabe T., Morita S., Kobayashi K., Mizumoto N., Ito H., Yoshimura J., Kakishima S., & Cooley J. (2024) Predaion-driven geographical isolation of broods in periodical cicadas. Scientific Reports, 14(1): 27071, DOI: 10.1038/s41598-024-75247-x
 - id: doi:10.1038/s41598-024-75247-x
@@ -31,6 +33,8 @@
     - type: preprint
       text: free link for first 50 access
       link: https://www.journals.uchicago.edu/eprint/VAPSFEKMYB3X5CB6ZBFS/full?redirectUri=/doi/epdf/10.1086/732877
+    - type: source
+      link: https://github.com/nobuaki-mzmt/termite-mate-search-cost
   
 # 39.	Mizumoto N.*#, Lee S-B. # & Chouvenc T. (2024) The strength of sexual signals predicts same-sex pairing in two Coptotermes termites. Behavioral Ecology, 35(5): arae067, DOI: 10.1093/beheco/arae067
 - id: doi:10.1093/beheco/arae067
@@ -40,6 +44,8 @@
     - type: preprint
       text: bioRxiv
       link: https://doi.org/10.1101/2024.03.07.583902
+    - type: source
+      link: https://github.com/nobuaki-mzmt/cop_homo_tandem_cf-vs-cg
 
 # 38. Mizumoto N.* & Reid C. (2024) Ant and termite collective behavior: group-level similarity arising from individual-level diversity. Ecological Research, DOI: 10.1111/1440-1703.12510
 - id: doi:10.1111/1440-1703.12510
@@ -74,6 +80,8 @@
     - type: journal
       text: IFLScience
       link: https://www.iflscience.com/extinct-termites-caught-mid-sexy-time-in-38-million-year-old-amber-73257
+    - type: source
+      link: https://github.com/nobuaki-mzmt/tandem-fossil
     
 
 
@@ -105,8 +113,8 @@
       - type: preprint
         text: bioRxiv
         link: https://www.biorxiv.org/content/10.1101/2022.08.28.505613v1
-  tags:
-    - tandem
+      - type: source
+        link: https://github.com/nobuaki-mzmt/diacamma-tandem
 
 # 2022
 # 30  Mizumoto N.* & Bourguignon T. (2022) Light alters activity but do not disturb tandem coordination of termite mating pairs. Ecological Entomology, 48(2):145-153, DOI: 10.1111/een.13209
@@ -155,6 +163,8 @@
       - type: phd
         text: Yamagata Univ
         link: https://www.yamagata-u.ac.jp/jp/information/press/20220418_2/
+      - type: source
+        link: https://github.com/nobuaki-mzmt/TermiteNestTermitophile
 
 # 2021
 # 25. Yashiro T.*, Tea Y-K., Wal C.V.D., Nozaki T., Mizumoto N., Hellemans S., Matsuura K. & Lo N. (2021) Enhanced heterozygosity from male meiotic chromosome chains is superseded by hybrid female asexuality in termites. Proceedings of the National Academy of Science, 118, e2009533118, DOI:10.1073/pnas.2009533118
