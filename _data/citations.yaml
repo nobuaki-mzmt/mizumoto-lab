@@ -1,16 +1,42 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2023.12.25.573318
+- id: doi:10.1098/rsbl.2024.0423
   title: The significance of social interactions in synchronized swarming flight in
     a termite
   authors:
   - Nobuaki Mizumoto
   - Tomonari Nozaki
-  publisher: bioRxiv
-  date: '2023-12-26'
-  link: https://doi.org/10.1101/2023.12.25.573318
-  type: preprint
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/12/26/2023.12.25.573318/F1.large.jpg
+  publisher: Biology Letters
+  date: '2024-11-01'
+  link: https://doi.org/g8rh6z
+  type: paper
+  image: https://royalsocietypublishing.org/cms/asset/e2e9db54-add6-4631-9144-a7f9f95bff03/rsbl.2024.0423.f001.gif
+  buttons:
+  - type: preprint
+    text: bioRxiv
+    link: https://doi.org/10.1101/2023.12.25.573318
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1038/s41598-024-75247-x
+  title: Predation-driven geographical isolation of broods in periodical cicadas
+  authors:
+  - Diane Carmeliza N. Cuaresma
+  - Maica Krizna A. Gavina
+  - Jomar F. Rabajante
+  - Jerrold M. Tubay
+  - Takuya Okabe
+  - Satoru Morita
+  - Kazuya Kobayashi
+  - Nobuaki Mizumoto
+  - Hiromu Ito
+  - Jin Yoshimura
+  - Satoshi Kakishima
+  - John R. Cooley
+  publisher: Scientific Reports
+  date: '2024-11-07'
+  link: https://doi.org/g8rh62
+  type: paper
+  image: https://royalsocietypublishing.org/cms/asset/e2e9db54-add6-4631-9144-a7f9f95bff03/rsbl.2024.0423.f001.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/jee/toae259
@@ -18,8 +44,9 @@
   authors: []
   publisher: ''
   date: ''
-  link: https://doi.org/10.1093/jee/toae259
+  link: https://doi.org/g8k28n
   type: paper
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jee/PAP/10.1093_jee_toae259/1/m_toae259_fig1.jpeg?Expires=1734531366&Signature=RJ4GtE864MyMJ2Gh13LHSbPevRpa1V-0LAMUNSZ8dwu6M7Iq37rK8403dBKMX7nZL3tsmaTsa-gWArxN6X1xPBBNqyyMiytH5A81dXFW6wyPAurCiAUHwJRsH8SDrH3HbCV5yXy24JXIPfW-Is7PyuPibI8aSaGJeB2sMjop025mWmBmOVw6PV9CEj8jLbcNus2agRhyOX5rqMdIv2JG0ru1S8IbSUdDEu3rNEEoP4EoiBX8Hfr5DTy71ykkPutF-iw3MujxCGy2Zezzm7kVNG7yhpAB4~8lOjdJ4xiXYH2cGYhumB6c4ISYRn4WAaht3pcARt6lYpsZg6hgakjfhA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1086/732877
