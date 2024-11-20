@@ -11,7 +11,7 @@
       link: https://doi.org/10.1101/2023.12.25.573318
 
 # 42.	Cuaresma D. C. N., Gavina M. K. A., Rabajante J., Tubay J., Okabe T., Morita S., Kobayashi K., Mizumoto N., Ito H., Yoshimura J., Kakishima S., & Cooley J. (2024) Predaion-driven geographical isolation of broods in periodical cicadas. Scientific Reports, 14(1): 27071, DOI: 10.1038/s41598-024-75247-x
-- id: 10.1038/s41598-024-75247-x
+- id: doi:10.1038/s41598-024-75247-x
   type: paper
   image: https://royalsocietypublishing.org/cms/asset/e2e9db54-add6-4631-9144-a7f9f95bff03/rsbl.2024.0423.f001.gif
 
@@ -23,7 +23,6 @@
 # 40. Mizumoto N.*, Nagaya N. & Fujisawa R. (2024) Wasted efforts impair random search efficiency and reduce choosiness in mate-pairing termites. bioRxiv, DOI: 10.1101/2024.02.01.578198 (submit to Ecology) 
 - id: doi:10.1086/732877
   type: paper
-  link: https://doi.org/10.1086/732877
   image: images/pub/Mizumoto-etal-2024-tired.jpg
   buttons:
     - type: preprint
