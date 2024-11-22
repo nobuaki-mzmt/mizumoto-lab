@@ -7,7 +7,7 @@ nav:
 # {% include icon.html icon="fa-regular fa-door-open" %}Join our lab
 ## Master & PhD students
 Graduate students at the Department of Entomology & Plant Pathology at Auburn University are fully funded by Research Assistantship. <br>
-[** We are recruiting a graduate student (master's) **](https://www.dropbox.com/scl/fi/zf4kdaz232u812o5k8cj9/poster.pdf?rlkey=y7mfwch3qg0cvrzuwqz759cko&dl=0)
+** [We are recruiting a graduate student (master's)](https://www.dropbox.com/scl/fi/zf4kdaz232u812o5k8cj9/poster.pdf?rlkey=y7mfwch3qg0cvrzuwqz759cko&dl=0) **
 <!-- At this time, Mizumoto-lab is not accepting students. However, if you are very interested in joining the lab in the future. We are happy to start discussing the opportunity beforehand. -->
 <!-- We are actively looking for graduate students for Fall 2024!<br> -->
 <!-- If you are interested in a graduate student position (master or phd), please send: 1) a cover letter mentioning research interests and research experience (if any), and 2) your CV, to [nzm0095@auburn.edu](mailto:nzm0095@auburn.edu). <br> -->
