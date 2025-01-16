@@ -42,24 +42,31 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/jee/toae259
-  title: pendingpublications
-  authors: []
-  publisher: ''
-  date: ''
+  title: 'Subterranean termites (<i>Coptotermes formosanus</i> [Blattodea: Rhinotermitidae])
+    colonies can readily intercept commercial inground bait stations placed at label-prescribed
+    distance'
+  authors:
+  - Kaitlin Gazdick
+  - Sang-Bin Lee
+  - Nobuaki Mizumoto
+  - Thomas Chouvenc
+  - Nan-Yao Su
+  publisher: Journal of Economic Entomology
+  date: '2024-10-29'
   link: https://doi.org/g8k28n
   type: paper
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jee/PAP/10.1093_jee_toae259/1/m_toae259_fig1.jpeg?Expires=1734531366&Signature=RJ4GtE864MyMJ2Gh13LHSbPevRpa1V-0LAMUNSZ8dwu6M7Iq37rK8403dBKMX7nZL3tsmaTsa-gWArxN6X1xPBBNqyyMiytH5A81dXFW6wyPAurCiAUHwJRsH8SDrH3HbCV5yXy24JXIPfW-Is7PyuPibI8aSaGJeB2sMjop025mWmBmOVw6PV9CEj8jLbcNus2agRhyOX5rqMdIv2JG0ru1S8IbSUdDEu3rNEEoP4EoiBX8Hfr5DTy71ykkPutF-iw3MujxCGy2Zezzm7kVNG7yhpAB4~8lOjdJ4xiXYH2cGYhumB6c4ISYRn4WAaht3pcARt6lYpsZg6hgakjfhA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1086/732877
-  title: Wasted efforts impair random search efficiency and reduce choosiness in mate-pairing
-    termites
+  title: Wasted Efforts Impair Random Search Efficiency and Reduce Choosiness in Mate-Pairing
+    Termites
   authors:
-  - Nobuaki Mizumoto
-  - Naohisa Nagaya
-  - Ryusuke Fujisawa
+  - "Nobuaki Mizumoto (\u6C34\u5143 \u60DF\u6681)"
+  - "Naohisa Nagaya (\u6C38\u8C37 \u76F4\u4E45)"
+  - "Ryusuke Fujisawa (\u85E4\u6FA4 \u9686\u4ECB)"
   publisher: The American Naturalist
-  date: '2024-08-26'
+  date: '2024-12-01'
   link: https://doi.org/g8k28p
   type: paper
   image: images/pub/Mizumoto-etal-2024-tired.jpg
