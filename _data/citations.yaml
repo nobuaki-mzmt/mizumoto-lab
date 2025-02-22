@@ -1,5 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: 10.1101/2025.02.13.638054
+  title: Maintaining tandem movement cohesion through antennal movements in termites
+  authors:
+  - Nobuaki Mizumoto
+  - Sam Reiter
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-02-13'
+  link: https://doi.org/g85vt6
+  type: preprint
+  image: images/pub/Mizumoto-Reiter-2025.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1098/rsbl.2024.0423
   title: The significance of social interactions in synchronized swarming flight in
     a termite
@@ -55,7 +67,7 @@
   date: '2024-10-29'
   link: https://doi.org/g8k28n
   type: paper
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jee/PAP/10.1093_jee_toae259/1/m_toae259_fig1.jpeg?Expires=1734531366&Signature=RJ4GtE864MyMJ2Gh13LHSbPevRpa1V-0LAMUNSZ8dwu6M7Iq37rK8403dBKMX7nZL3tsmaTsa-gWArxN6X1xPBBNqyyMiytH5A81dXFW6wyPAurCiAUHwJRsH8SDrH3HbCV5yXy24JXIPfW-Is7PyuPibI8aSaGJeB2sMjop025mWmBmOVw6PV9CEj8jLbcNus2agRhyOX5rqMdIv2JG0ru1S8IbSUdDEu3rNEEoP4EoiBX8Hfr5DTy71ykkPutF-iw3MujxCGy2Zezzm7kVNG7yhpAB4~8lOjdJ4xiXYH2cGYhumB6c4ISYRn4WAaht3pcARt6lYpsZg6hgakjfhA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jee/PAP/10.1093_jee_toae259/1/m_toae259_fig1.jpeg?Expires=1743267911&Signature=VitJgQViG9CSPZCAcatCIy8xr5ctcuVfhoBXVF1Jifns~MYwhN~V5mj1E99EnUXslYz0vw9-B38dK0I8bbJRqfUuSPms4-n2dS0lslA9H9JJHanU2l254uZ3fYni9Q0a8ARQVCx8Hly~SxibbjXj7XR0-ZbRFOwSi4PB1lGq5BCywhkMWYtQBQ4BxF8~8oJdL4slt1WjiarRqJDhz0M9Uuopu4tAveEW4wAKIg0JKrzGGv~Y2jncaa0R8dAy3fzg~FMB1JyZYOZWtw0ORILzlX6s9G3d-tCg83lAyB9pkKmYDz-bHirVenIDNTOWyIAfERNV45U12QwqzKxovfmkbg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1086/732877
