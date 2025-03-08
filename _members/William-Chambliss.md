@@ -1,6 +1,6 @@
 ---
 name: William Chambliss
-image: images/members/William_Chambliss.jpg
+image: images/members/William_Chambliss.png
 role: undergrad
 aliases:
   - W. Chambliss
