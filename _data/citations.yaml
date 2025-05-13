@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: 10.1101/2025.05.02.651862
+  title: Observation of tandem running behavior in mating pairs of Asian dampwood
+    termite,<i>Hodotermopsis sjostedti</i>
+  authors:
+  - Nobuaki Mizumoto
+  - William Chambliss
+  - Carroll P Elijah
+  - Nakazono Tomohiro
+  - Taisuke Kanao
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-05-08'
+  link: https://doi.org/g9jt4z
+  type: preprint
+  image: https://www.biorxiv.org/content/biorxiv/early/2025/05/08/2025.05.02.651862/F1.large.jpg?width=800&height=600&carousel=1
+  plugin: sources.py
+  file: sources.yaml
 - id: 10.1101/2025.02.13.638054
   title: Maintaining tandem movement cohesion through antennal movements in termites
   authors:
