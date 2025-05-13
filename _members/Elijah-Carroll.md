@@ -1,6 +1,6 @@
 ---
 name: Elijah Carroll
-image: images/members/EC_HeadshotPhoto.jpg
+image: images/members/EC_HeadshotPhoto_square.jpg
 role: phd
 aliases:
   - E. Carroll
