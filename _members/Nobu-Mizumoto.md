@@ -12,7 +12,7 @@ links:
   google-scholar: bALkDW4AAAAJ
   reseachgate: Nobuaki-Mizumoto
   orcid: 0000-0002-6731-8684
-  cv: https://www.dropbox.com/scl/fi/c1gb6oag2hgcp7i7iw0rt/CV_NobuakiMizumoto.pdf?rlkey=uzaqfj67r6wp97la27e1coq5g&dl=0
+  cv: https://tigermailauburn-my.sharepoint.com/:b:/g/personal/nzm0095_auburn_edu/EbzVMGWnt-5MvBYkiKRja28BbWriMV-bzZd-EJJHMTb2Hw?e=gVXTnb
 ---
 
 Nobuaki Mizumoto (Nobu) is an Assistant Professor in Insect Ecology at the Department of Entomology & Plant Pathology at Auburn University. He is interested in the evolution of collective behavior in termites and tandem running behavior.
