@@ -3,7 +3,7 @@
 ---
 
 <!-- Announcement -->
-**[Looking for a graduate student (master's) for Fall 2025!]([https://www.dropbox.com/scl/fi/zf4kdaz232u812o5k8cj9/poster.pdf?rlkey=y7mfwch3qg0cvrzuwqz759cko&dl=0](https://github.com/nobuaki-mzmt/mizumoto-lab/blob/main/poster_250812.pdf))** <br>
+**[Looking for a graduate student (master's) for Spring 2026!]([https://www.dropbox.com/scl/fi/zf4kdaz232u812o5k8cj9/poster.pdf?rlkey=y7mfwch3qg0cvrzuwqz759cko&dl=0](https://github.com/nobuaki-mzmt/mizumoto-lab/blob/main/poster_250812.pdf))** <br>
 
 # Termite x Behavior x Evolution
 Mizumoto Lab is interested in the evolution of termite collective behavior. What are the rules for behavioral coordination? How did they originate in the history of life? We answer these questions by integrating field work, behavioral observations, computational tracking, and phylogenetic comparative analysis. See our [Publications](publication) and [Research](research) for details.
