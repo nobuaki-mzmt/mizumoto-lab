@@ -1,5 +1,26 @@
 # Preprint under review
 
+# Carroll E., Kanao T., Lo N. & Mizumoto N. (2025) Diversification of pre-mating behaviors through temporal reordering of components. bioRxiv doi: 10.1101/2025.10.22.683896
+- id: 10.1101/2025.10.22.683896
+  type: preprint
+  image: https://www.biorxiv.org/content/biorxiv/early/2025/10/23/2025.10.22.683896/F1.large.jpg
+
+# Taniguchi J., Inoue T., Kohara K., Hung J-F., Hirai A., Mizumoto N., Takeshita F., Kawabata Y. (2025) Evolution of sideways locomotion in crabs. bioRxiv doi: 10.1101/2025.09.20.677458
+- id: 10.1101/2025.09.20.677458
+  type: preprint
+  image: https://www.biorxiv.org/content/biorxiv/early/2025/11/17/2025.09.20.677458/F4.large.jpg
+
+# Satoh A., Planas-Sitja I., Cronin A. L., Mizumoto N. (2025) Variation in soldier investment is linked to the evolution of termite soldier defense strategies. ResearchSquare, doi:10.21203/rs.3.rs-7300390/v1 
+- id: 10.21203/rs.3.rs-7300390/v1
+  type: preprint
+  image: https://assets-eu.researchsquare.com/files/rs-7300390/v1/f4f2f954f9cd9dc984b40ea7.png?maxDims=1200x1200
+
+# Mizumoto N., (2025) Evaluating mate encounter and walking dispersal dynamics of termites using posture tracking and behavioral simulation. ResearchSquare doi:10.21203/rs.3.rs-6837416/v1 (under review at Journal of Pest Science)
+- id: 10.21203/rs.3.rs-6837416/v1
+  type: preprint
+  image: https://assets-eu.researchsquare.com/files/rs-6837416/v1/16584d78a2e2c448157be1ee.png?maxDims=1200x1200
+
+  
 # Observation of tandem running behavior in mating pairs of Asian dampwood termite, Hodotermopsis sjostedti
 - id: 10.1007/s10164-025-00857-5
   type: paper
@@ -31,9 +52,7 @@
 - id: 10.1007/s00265-025-03640-1
   type: paper
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00265-025-03640-1/MediaObjects/265_2025_3640_Fig5_HTML.png?as=webp
-  
 
-# 2024
 # 43. Mizumoto N.* & Nozaki T. (2024) The significance of social interactions in synchronized swarming flight in a termite. Biology Letters (accepted)
 - id: doi:10.1098/rsbl.2024.0423
   type: paper
