@@ -4,6 +4,7 @@
 - id: 10.1007/s10164-025-00857-5
   type: paper
   image: https://www.biorxiv.org/content/biorxiv/early/2025/05/08/2025.05.02.651862/F1.large.jpg?width=800&height=600&carousel=1
+  button:
     - type: preprint
       text: bioRxiv
       link: https://doi.org/10.1101/2025.05.02.651862
@@ -14,6 +15,7 @@
 - id: 10.1098/rsif.2025.0487
   type: paper
   image: images/pub/Mizumoto-Reiter-2025.png
+  button:
     - type: preprint
       text: bioRxiv
       link: https://doi.org/10.1101/2025.02.13.638054
