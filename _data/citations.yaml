@@ -1,31 +1,75 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: 10.1101/2025.05.02.651862
-  title: Observation of tandem running behavior in mating pairs of Asian dampwood
-    termite, <i>Hodotermopsis sjostedti</i>
+- id: 10.1007/s10164-025-00857-5
+  title: Observation of tandem running behavior in dealates of Asian dampwood termite,
+    Hodotermopsis sjostedti
   authors:
   - Nobuaki Mizumoto
   - William Chambliss
-  - Carroll P Elijah
-  - Nakazono Tomohiro
+  - Elijah P. Carroll
+  - Tomohiro Nakazono
   - Taisuke Kanao
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-05-08'
-  link: https://doi.org/g9jt4z
-  type: preprint
+  publisher: Journal of Ethology
+  date: '2025-08-01'
+  link: https://doi.org/hbb2tw
+  type: paper
   image: https://www.biorxiv.org/content/biorxiv/early/2025/05/08/2025.05.02.651862/F1.large.jpg?width=800&height=600&carousel=1
+  button:
+  - type: preprint
+    text: bioRxiv
+    link: https://doi.org/10.1101/2025.05.02.651862
+  - type: source
+    link: https://github.com/nobuaki-mzmt/hodo-tandem
   plugin: sources.py
   file: sources.yaml
-- id: 10.1101/2025.02.13.638054
+- id: 10.1098/rsif.2025.0487
   title: Maintaining tandem movement cohesion through antennal movements in termites
   authors:
   - Nobuaki Mizumoto
   - Sam Reiter
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-02-13'
-  link: https://doi.org/g85vt6
-  type: preprint
+  publisher: Journal of The Royal Society Interface
+  date: '2025-11-01'
+  link: https://doi.org/hbb2tx
+  type: paper
   image: images/pub/Mizumoto-Reiter-2025.png
+  button:
+  - type: preprint
+    text: bioRxiv
+    link: https://doi.org/10.1101/2025.02.13.638054
+  - type: source
+    link: https://github.com/nobuaki-mzmt/Tandem_antenna_role
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1111/jeu.70039
+  title: Intragenomic <scp>18S</scp> Sequence Variability in the Termite Symbionts
+    <scp><i>Kofoidia loriculata</i></scp> and <scp><i>Kofoidia repleta</i></scp> n.
+    sp. (Parabasalia)
+  authors:
+  - Ezhan Mirza
+  - "Daniel E. Jasso\u2010Selles"
+  - Nobuaki Mizumoto
+  - Gillian H. Gile
+  publisher: Journal of Eukaryotic Microbiology
+  date: '2025-08-13'
+  link: https://doi.org/hbb2tz
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/e32f5657-1260-409e-9084-b15ce685ad6e/jeu70039-fig-0001-m.png
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1007/s00265-025-03640-1
+  title: More individuals or more groups? Incorporating sampling effort, statistical
+    power, and model accuracy when designing experiments
+  authors:
+  - Colin M. Lynch
+  - M. Starkey
+  - D. Montgomery
+  - T. P. Pavlic
+  - N. Mizumoto
+  publisher: Behavioral Ecology and Sociobiology
+  date: '2025-10-09'
+  link: https://doi.org/hbb2t2
+  type: paper
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00265-025-03640-1/MediaObjects/265_2025_3640_Fig5_HTML.png?as=webp
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1098/rsbl.2024.0423
@@ -255,8 +299,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/ece3.10394
-  title: '<scp>TManual</scp>: Assistant for manually measuring length development
-    in structures built by animals'
+  title: "<scp>TManual</scp>\n                    : Assistant for manually measuring\
+    \ length development in structures built by animals"
   authors:
   - Nobuaki Mizumoto
   publisher: Ecology and Evolution
