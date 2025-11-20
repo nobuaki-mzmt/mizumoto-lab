@@ -1,5 +1,64 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: 10.1101/2025.10.22.683896
+  title: Diversification of pre-mating behaviors through temporal reordering of components
+  authors:
+  - Elijah Carroll
+  - Taisuke Kanao
+  - Nathan Lo
+  - Nobuaki Mizumoto
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-10-23'
+  link: https://doi.org/hbb2v4
+  type: preprint
+  image: https://www.biorxiv.org/content/biorxiv/early/2025/10/23/2025.10.22.683896/F1.large.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1101/2025.09.20.677458
+  title: Evolution of sideways locomotion in crabs
+  authors:
+  - Junya Taniguchi
+  - Tsubasa Inoue
+  - Kano Kohara
+  - Jung-Fu Huang
+  - Atsushi Hirai
+  - Nobuaki Mizumoto
+  - Fumio Takeshita
+  - Yuuki Kawabata
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-09-21'
+  link: https://doi.org/p7q5
+  type: preprint
+  image: https://www.biorxiv.org/content/biorxiv/early/2025/11/17/2025.09.20.677458/F4.large.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.21203/rs.3.rs-7300390/v1
+  title: Variation in soldier investment is linked to the evolution of termite soldier
+    defense strategies
+  authors:
+  - Akiya Satoh
+  - "Isaac Planas-Sitj\xE0"
+  - Adam L. Cronin
+  - Nobuaki Mizumoto
+  publisher: Springer Science and Business Media LLC
+  date: '2025-08-25'
+  link: https://doi.org/hbb2v5
+  type: preprint
+  image: https://assets-eu.researchsquare.com/files/rs-7300390/v1/f4f2f954f9cd9dc984b40ea7.png?maxDims=1200x1200
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.21203/rs.3.rs-6837416/v1
+  title: Evaluating mate encounter and walking dispersal dynamics of termites using
+    posture tracking and behavioral simulation
+  authors:
+  - Nobuaki Mizumoto
+  publisher: Springer Science and Business Media LLC
+  date: '2025-06-12'
+  link: https://doi.org/hbb2v6
+  type: preprint
+  image: https://assets-eu.researchsquare.com/files/rs-6837416/v1/16584d78a2e2c448157be1ee.png?maxDims=1200x1200
+  plugin: sources.py
+  file: sources.yaml
 - id: 10.1007/s10164-025-00857-5
   title: Observation of tandem running behavior in dealates of Asian dampwood termite,
     Hodotermopsis sjostedti
