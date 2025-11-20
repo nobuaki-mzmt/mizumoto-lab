@@ -1,15 +1,35 @@
 # Preprint under review
 
 # Observation of tandem running behavior in mating pairs of Asian dampwood termite, Hodotermopsis sjostedti
-- id: 10.1101/2025.05.02.651862
-  type: preprint
+- id: 10.1007/s10164-025-00857-5
+  type: paper
   image: https://www.biorxiv.org/content/biorxiv/early/2025/05/08/2025.05.02.651862/F1.large.jpg?width=800&height=600&carousel=1
+    - type: preprint
+      text: bioRxiv
+      link: https://doi.org/10.1101/2025.05.02.651862
+    - type: source
+      link: https://github.com/nobuaki-mzmt/hodo-tandem
 
 # Mizumoto N. & Reiter S., (2025) Maintaining tandem movement cohesion through antennal movements in termites. bioRxiv doi:10.1101/2025.02.13.638054
-- id: 10.1101/2025.02.13.638054
-  type: preprint
+- id: 10.1098/rsif.2025.0487
+  type: paper
   image: images/pub/Mizumoto-Reiter-2025.png
+    - type: preprint
+      text: bioRxiv
+      link: https://doi.org/10.1101/2025.02.13.638054
+    - type: source
+      link: https://github.com/nobuaki-mzmt/Tandem_antenna_role
 
+# Mirza E., Jasso-Selles D., Mizumoto N. & Gile G.*, (2025) Intragenomic 18S sequence variability in the termite symbionts Kofoidia loriculata and Kofoidia repleta n. sp. (Parabasalia). Journal of Eukaryotic Microbiology, DOI: 10.1111/jeu.70039
+- id: 10.1111/jeu.70039
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/e32f5657-1260-409e-9084-b15ce685ad6e/jeu70039-fig-0001-m.png
+
+# Lynch C. M.*, Starkey M., Montgomery D., Pavlic T. P. & Mizumoto N. (2025) More individuals or more groups? Incorporating sampling effort, statistical power, and model accuracy when designing experiments. Behavioral Ecology and Sociobiology, 79:106, DOI: 10.1007/s00265-025-03640-1
+- id: 10.1007/s00265-025-03640-1
+  type: paper
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00265-025-03640-1/MediaObjects/265_2025_3640_Fig5_HTML.png?as=webp
+  
 
 # 2024
 # 43. Mizumoto N.* & Nozaki T. (2024) The significance of social interactions in synchronized swarming flight in a termite. Biology Letters (accepted)
