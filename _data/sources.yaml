@@ -20,7 +20,12 @@
   type: preprint
   image: https://assets-eu.researchsquare.com/files/rs-6837416/v1/16584d78a2e2c448157be1ee.png?maxDims=1200x1200
 
-  
+# 2025
+# Mizumoto N.*, Yashiro T. & Hellemans S., (2025) Loss of pair formation predates the evolution of male-less society in termites. Evolution, accepted, DOI:10.1093/evolut/qpaf248
+- id: 10.1093/evolut/qpaf248
+  type: paper
+  image: https://oup.silverchair-cdn.com/data/SiteBuilderAssets/Live/Images/evolut/evolut_title536242644.svg
+
 # Observation of tandem running behavior in mating pairs of Asian dampwood termite, Hodotermopsis sjostedti
 - id: 10.1007/s10164-025-00857-5
   type: paper
@@ -35,7 +40,7 @@
 # Mizumoto N. & Reiter S., (2025) Maintaining tandem movement cohesion through antennal movements in termites. bioRxiv doi:10.1101/2025.02.13.638054
 - id: 10.1098/rsif.2025.0487
   type: paper
-  image: images/pub/Mizumoto-Reiter-2025.png
+  image: images/pub/m_rsif.2025.22.issue-232.cover.gif
   button:
     - type: preprint
       text: bioRxiv
