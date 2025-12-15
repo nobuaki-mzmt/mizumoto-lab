@@ -61,7 +61,7 @@
 # 43. Mizumoto N.* & Nozaki T. (2024) The significance of social interactions in synchronized swarming flight in a termite. Biology Letters (accepted)
 - id: doi:10.1098/rsbl.2024.0423
   type: paper
-  image: https://royalsocietypublishing.org/cms/asset/e2e9db54-add6-4631-9144-a7f9f95bff03/rsbl.2024.0423.f001.gif
+  image: images/pub/mizumoto-nozaki2025.png
   buttons:
     - type: preprint
       text: bioRxiv
