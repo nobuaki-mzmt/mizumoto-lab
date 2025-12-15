@@ -59,6 +59,19 @@
   image: https://assets-eu.researchsquare.com/files/rs-6837416/v1/16584d78a2e2c448157be1ee.png?maxDims=1200x1200
   plugin: sources.py
   file: sources.yaml
+- id: 10.1093/evolut/qpaf248
+  title: Loss of pair formation predates the evolution of male-less society in termites
+  authors:
+  - Nobuaki Mizumoto
+  - Toshihisa Yashiro
+  - Simon Hellemans
+  publisher: Evolution
+  date: '2025-11-28'
+  link: https://doi.org/hbfq3x
+  type: paper
+  image: https://oup.silverchair-cdn.com/data/SiteBuilderAssets/Live/Images/evolut/evolut_title536242644.svg
+  plugin: sources.py
+  file: sources.yaml
 - id: 10.1007/s10164-025-00857-5
   title: Observation of tandem running behavior in dealates of Asian dampwood termite,
     Hodotermopsis sjostedti
@@ -90,7 +103,7 @@
   date: '2025-11-01'
   link: https://doi.org/hbb2tx
   type: paper
-  image: images/pub/Mizumoto-Reiter-2025.png
+  image: images/pub/m_rsif.2025.22.issue-232.cover.gif
   button:
   - type: preprint
     text: bioRxiv
