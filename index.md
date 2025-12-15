@@ -3,7 +3,7 @@
 ---
 
 <!-- Announcement -->
-**[Looking for a graduate student for Spring 2026!](https://github.com/nobuaki-mzmt/mizumoto-lab/blob/main/poster_250812.pdf)** <br>
+**[Looking for a graduate student for Fall 2026!](https://github.com/nobuaki-mzmt/mizumoto-lab/blob/main/job_ad_NM_2026.pdf)** <br>
 
 # Termite x Behavior x Evolution
 Mizumoto Lab is interested in the evolution of termite collective behavior. What are the rules for behavioral coordination? How did they originate in the history of life? We answer these questions by integrating field work, behavioral observations, computational tracking, and phylogenetic comparative analysis. See our [Publications](publication) and [Research](research) for details.
@@ -30,7 +30,7 @@ Videos of insect behaviors have much information. We especially try to understan
 %}
 
 {% capture content %} 
-There are > 3,000 species of termites in this world, showing a great diversity of collective behavior. Comparison among them allows us to infer the history of evolution. We also love cool fossils.
+There are > 3,000 species of termites in the world, showing a great diversity of collective behavior. Comparison among them allows us to infer the history of evolution. We also love cool fossils.
 {% endcapture %} 
 {%
   include feature.html
